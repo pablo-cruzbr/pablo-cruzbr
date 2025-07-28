@@ -3,7 +3,7 @@
 <div style="display: inline_block"><br>
 
   ### 👋 Sobre mim
-  <p>Me chamo Pablo, tenho 20 anos e sou Desenvolvedor FullStack Junior atuando como freelancer. Atualmente trabalho em uma empresa de informática como HelpDesk Nivel 2, onde atuo com Redes de Internet, Manutenção de Raks de Infraestrutura, Active Directory, PABX em nuvem e Hardware de Computadores. Possuo Experiencia com linguagens e Frameworks como:  JavaScript, Typescript, React, React Native, Nextjs, Postgresql, NodeJs, Graphql</p>
+  <p>Me chamo Pablo Desenvolvedor FullStack atuando como freelancer e possuo experiencia prática em linguagens e Frameworks como:  JavaScript, Typescript, React, React Native, Nextjs, Postgresql, NodeJs, Graphql. Atualmente trabalho em uma empresa de informática como HelpDesk Nivel 2 onde atuo com Redes de Internet, Manutenção de Raks de Infraestrutura, Active Directory, PABX em nuvem e Manutenção de Hardware. </p>
   <p></p>
   
   <p>💡 Estou desenvolvendo um sistema SaaS completo de gestão para empresas de informática, unindo prática de mercado e aprendizado técnico.</p>
