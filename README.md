@@ -6,7 +6,7 @@
   <p>Desenvolvedor Full Stack, atuando como freelancer, com experiência prática em linguagens e frameworks como JavaScript, TypeScript, React, React Native, Next.js, Node.js, GraphQL e PostgreSQL. Atualmente, trabalho em uma empresa de informática como Help Desk Nível 2, onde atuo com redes de internet, manutenção de racks de infraestrutura, Active Directory, PABX em nuvem 3CX e manutenção de hardware.</p>
   <p></p>
 
-    ### 🚀Projeto em Desenvolvimento 
+  ### 🚀Projeto em Desenvolvimento 
   <p>💡 Estou desenvolvendo um sistema SaaS completo de gestão para empresas de informática, unindo prática de mercado e aprendizado técnico. Ele está pinnado! Nome: TechOS</p>
 
   ### 🎓 Educação
