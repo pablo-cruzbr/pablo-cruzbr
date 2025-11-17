@@ -36,7 +36,7 @@
 ### 📲 Entre em contato
 
 <div>
- <a href="https://www.instagram.com/pablocruzcode/" target="_blank">
+ <a href="https://www.instagram.com/pablocruzdev/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </a>
 
