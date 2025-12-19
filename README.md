@@ -9,7 +9,7 @@
   ### 🚀Projeto Freelancer em Desenvolvimento...
   <p>💡 Estou desenvolvendo um sistema SaaS completo de gestão para empresas de informática, unindo prática de mercado e aprendizado técnico. Ele está pinnado! Nome: TechOS</p>
 
-🔗 **Link Portifólio:** <a href="https://frontend-portifolio-metadata-api.vercel.app/" target="_blank">https://frontend-portifolio-metadata-api.vercel.app/</a>
+🔗 **Link Portifólio:** <a href="https://frontend-portifolio-metadata-api.vercel.app/" target="_blank">Acesse meu projeto aqui 🚀</a>
 
   ### 🎓 Educação
   <p>📚 Cursando <strong>Sistemas de Informação</strong> na Universidade Cruzeiro do Sul.</p>
