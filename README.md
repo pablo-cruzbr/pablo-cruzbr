@@ -1,5 +1,3 @@
-## 👨‍💻 Olá sou Pablo Cruz !
-
 <div style="display: inline_block"><br>
 
   ### 👋 Sobre mim
