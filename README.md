@@ -31,6 +31,11 @@
 
 </div>
 
+### 📊 Minhas Estatísticas do GitHub
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablo-cruzbr&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
 ### 📲 Entre em contato
