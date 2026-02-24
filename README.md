@@ -4,10 +4,19 @@
   <p>Desenvolvedor Fullstack Junior, com experiência prática em linguagens e frameworks como JavaScript, TypeScript, React, React Native, Next.js, Node.js, GraphQL e PostgreSQL. Atualmente, trabalho em uma empresa de informática como Help Desk Nível 2 e Desenvolvedor Fullstack Junior, onde atuo com redes de internet, manutenção de racks de infraestrutura, Active Directory, PABX em nuvem 3CX e manutenção de hardware.</p>
   <p></p>
 
-  ### 🚀Projeto Freelancer em Desenvolvimento...
-  <p>💡 Estou desenvolvendo um sistema SaaS completo de gestão para empresas de informática, unindo prática de mercado e aprendizado técnico. Ele está pinnado! Nome: TechOS</p>
+  ### 🚀Projeto Freelancer em Desenvolvimento e Implantação...
+  <p>💡 Estou desenvolvendo um sistema SaaS completo de gestão para empresas de informática, unindo prática de mercado e aprendizado técnico. Segue o Link! </p>
+<p align="left">
+  <a href="https://landing-page-allti-control.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Acesse%20o%20Projeto-AlltiControl-00df81?style=for-the-badge&logo=vercel&logoColor=white" alt="AlltiControl Link" />
+  </a>
+</p>
 
-🔗 **Link Portifólio:** <a href="https://frontend-portifolio-metadata-api.vercel.app/" target="_blank">Acesse meu projeto aqui 🚀</a>
+<p align="left">
+  <a href="https://frontend-portifolio-metadata-api.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Meu%20Portfólio-Acesse%20meu%20portifolio-0070f3?style=for-the-badge&logo=react&logoColor=white" alt="Portfólio" />
+  </a>
+</p>
 
   ### 🎓 Educação
   <p>📚 Cursando <strong>Sistemas de Informação</strong> na Universidade Cruzeiro do Sul.</p>
