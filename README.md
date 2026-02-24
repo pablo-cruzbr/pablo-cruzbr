@@ -18,8 +18,10 @@
   </a>
 </p>
 
-  ### 🎓 Educação
-  <p>📚 Cursando <strong>Sistemas de Informação</strong> na Universidade Cruzeiro do Sul.</p>
+### 📊 Minhas Estatísticas do GitHub
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablo-cruzbr&theme=tokyonight&hide_border=true" />
+</p>
 
   ### 🛠️ Tecnologias e Ferramentas
 
@@ -40,10 +42,8 @@
 
 </div>
 
-### 📊 Minhas Estatísticas do GitHub
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablo-cruzbr&theme=tokyonight&hide_border=true" />
-</p>
+  ### 🎓 Formação Acadêmica
+  <p>📚 Cursando <strong>Sistemas de Informação</strong> na Universidade Cruzeiro do Sul.</p>
 
 ---
 
