@@ -8,7 +8,7 @@
   <p>💡 Estou desenvolvendo um sistema SaaS completo de gestão para empresas de informática, unindo prática de mercado e aprendizado técnico. Segue o Link! </p>
 <p align="left">
   <a href="https://landing-page-allti-control.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Acesse%20o%20Projeto-AlltiControl-00df81?style=for-the-badge&logo=vercel&logoColor=white" alt="AlltiControl Link" />
+    <img src="https://img.shields.io/badge/Acesse%20o%20Projeto-AlltiControl-0070f3?style=for-the-badge&logo=vercel&logoColor=white" alt="AlltiControl Link" />
   </a>
 </p>
 
