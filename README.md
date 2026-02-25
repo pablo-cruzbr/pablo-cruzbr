@@ -14,7 +14,7 @@
 
 <p align="left">
   <a href="https://frontend-portifolio-metadata-api.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Meu%20Portfólio-Acesse%20meu%20portifolio-0070f3?style=for-the-badge&logo=react&logoColor=white" alt="Portfólio" />
+    <img src="https://img.shields.io/badge/Meus%20Projetos-Acesse%20meu%20portifolio-0070f3?style=for-the-badge&logo=react&logoColor=white" alt="Portfólio" />
   </a>
 </p>
 
