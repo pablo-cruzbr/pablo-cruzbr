@@ -23,24 +23,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablo-cruzbr&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
-  ### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias e Ferramentas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind" />
+  <a href="https://expo.dev" target="_blank">
+    <img src="https://cdn.simpleicons.org/expo/white" height="42" style="vertical-align: middle; margin-left: 8px;" />
+  </a>
+</p>
 
-  #### 💻 Linguagens & Frameworks
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="React Native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-
-  <br>
-
-  #### 🗄️ Banco de Dados & Back-end
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Prisma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
-  <img align="center" alt="GraphQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
-
-</div>
+#### 🗄️ Banco de Dados & Back-end
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma" />
+</p>
 
   ### 🎓 Formação Acadêmica
   <p>📚 Cursando <strong>Sistemas de Informação</strong> na Universidade Cruzeiro do Sul.</p>
