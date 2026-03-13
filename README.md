@@ -6,7 +6,7 @@
 
   
 ### 📊 Minhas Estatísticas do GitHub
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablo-cruzbr&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
