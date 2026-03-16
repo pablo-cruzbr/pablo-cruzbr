@@ -1,7 +1,7 @@
 <div style="display: inline_block"><br>
 
   ### 👋 Sobre mim
-  <p>Desenvolvedor Fullstack Junior, com experiência prática em linguagens e frameworks como JavaScript, TypeScript, React, React Native, Next.js, Node.js, GraphQL e PostgreSQL. Atualmente, trabalho em uma empresa de informática como Help Desk Nível 2 e Desenvolvedor Fullstack Junior, onde atuo com redes de internet, manutenção de racks de infraestrutura, Active Directory, PABX em nuvem 3CX e manutenção de hardware.</p>
+  <p>Desenvolvedor Fullstack, com experiência prática em linguagens e frameworks como JavaScript, TypeScript, React, React Native, Next.js, Node.js, GraphQL e PostgreSQL. Atualmente, trabalho em uma empresa de informática como Help Desk Nível 2 e Desenvolvedor Fullstack Junior, onde atuo com redes de internet, manutenção de racks de infraestrutura, Active Directory, PABX em nuvem 3CX e manutenção de hardware.</p>
   <p></p>
 
   
