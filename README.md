@@ -4,7 +4,10 @@
   <p>Desenvolvedor Fullstack, com experiência prática em linguagens e frameworks como JavaScript, TypeScript, React, React Native, Next.js, Node.js, GraphQL e PostgreSQL. Atualmente, trabalho em uma empresa de informática como Desenvolvedor Fullstack Junior.</p>
   <p></p>
 
-  
+<!-- START_SECTION:waka -->
+<!-- O gráfico do WakaTime será injetado automaticamente aqui pelo GitHub Action -->
+<!-- END_SECTION:waka -->
+
 ### 📊 Minhas Estatísticas do GitHub
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablo-cruzbr&theme=tokyonight&hide_border=true&cache_seconds=1800" />
