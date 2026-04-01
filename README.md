@@ -16,8 +16,8 @@
   ### 🚀 Sistema SaaS em Produção e Implantação — AlltiControl
 
 **[AlltiControl (Em Produção)](https://landing-page-allti-control.vercel.app/)**
-> Sistema SaaS Web + Mobile para gestão de ordens de serviço. Reduziu 83% das etapas de atendimento, implantado em 15+ órgãos públicos municipais.
-💡 Desenvolvi e estou implantando um sistema fullstack Web + Mobile para gestão 
+> 💡 Sistema SaaS Web + Mobile para gestão de ordens de serviço. Reduziu 83% das etapas de atendimento, implantado em 15+ órgãos públicos municipais.
+ Desenvolvi e estou implantando um sistema fullstack Web + Mobile para gestão 
 de ordens de serviço em empresas de informática. Em produção em 15+ órgãos 
 públicos municipais, com redução de 83% nas etapas de atendimento.
 
