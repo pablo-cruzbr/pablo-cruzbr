@@ -1,7 +1,9 @@
 <div style="display: inline_block"><br>
 
   ### 👋 Sobre mim
-  <p>Desenvolvedor Fullstack com experiência em construção e implantação de sistemas SaaS em produção. Atuação prática em linguagens e frameworks como JavaScript, TypeScript, React, React Native, Next.js, Node.js, GraphQL e PostgreSQL.</p>
+  <p>Desenvolvedor Fullstack Junior que resolve problemas reais com código.
+Autor do **AlltiControl** — SaaS em operação em 130+ instituições públicas,
+construído solo em 6 meses enquanto trabalhava como técnico de helpdesk N2.</p>
   <p></p>
 
 <!-- START_SECTION:waka -->
@@ -15,7 +17,7 @@
 
 ### 🚀 Sistema SaaS em Produção — AlltiControl
 
-**[AlltiControl (Em Produção)](https://landing-page-allti-control.vercel.app/)**
+**[AlltiControl (Em Produção)](https://portifolio-metadata-api-v4.vercel.app/projeto/freelancer/ae6eaf20-2eff-482e-9517-03d91a77875e)**
 
 > Empresas de TI perdem horas por dia em sistemas burocráticos. O AlltiControl resolve isso — gestão completa de ordens de serviço em **2 telas**, usado por **130+ instituições públicas**.
 
