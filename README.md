@@ -58,4 +58,4 @@
 </a>
 </div>
 
-<p align="center">🚀 Sempre aprendendo, sempre evoluindo.</p>
+<p align="center">🚀 GO GLOBAL OR NOTHING</p>
