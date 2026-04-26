@@ -24,7 +24,7 @@ construído solo em 6 meses enquanto trabalhava como técnico de helpdesk N2.</p
 - Identifiquei um problema real de campo: técnicos perdendo tempo em sistemas legados com **5–6 telas por atendimento** — e construí a solução do zero
 - Desenvolvi e lancei um SaaS fullstack **solo em 6 meses**, paralelamente ao trabalho como técnico de helpdesk N2, sem equipe e sem orçamento
 - Reduzi em **83% o esforço manual** de abertura de chamados, devolvendo tempo para técnicos focarem no problema real do cliente
-- Sistema em operação em **130+ instituições públicas** — prefeituras, escolas e postos de saúde em Mogi das Cruzes/SP
+- Sistema em operação em **68+ instituições públicas** — prefeituras, escolas e postos de saúde em Mogi das Cruzes/SP
 - Convenci a gestão apresentando protótipo funcional, resultando em **promoção a Desenvolvedor Fullstack** antes de completar 1 ano na empresa
 ## 🌐 Portfólio
 
