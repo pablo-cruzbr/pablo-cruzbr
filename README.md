@@ -17,7 +17,7 @@ construído solo em 6 meses enquanto trabalhava como técnico de helpdesk N2.</p
 
 ### 🚀 Sistema SaaS em Produção — AlltiControl
 
-**[AlltiControl (Em Produção)](https://portifolio-metadata-api-v4.vercel.app/projeto/freelancer/ae6eaf20-2eff-482e-9517-03d91a77875e)**
+**[AlltiControl](https://portifolio-metadata-api-v4.vercel.app/projeto/freelancer/ae6eaf20-2eff-482e-9517-03d91a77875e)**
 
 > Empresas de TI perdem horas por dia em sistemas burocráticos. O AlltiControl resolve isso — gestão completa de ordens de serviço em **2 telas**, usado por **68+ instituições públicas**.
 - Atualmente possui 68 usuários cadastrados 
