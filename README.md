@@ -1,7 +1,7 @@
 <div style="display: inline_block"><br>
 
   ### 👋 Sobre mim
-  <p>Desenvolvedor Fullstack Junior que resolve problemas reais com código.
+  <p>Desenvolvedor Fullstack que resolve problemas reais com código.
 Autor do AlltiControl — SaaS em operação em 68+ instituições públicas,
 construído solo em 6 meses enquanto trabalhava como técnico de helpdesk N2.</p>
   <p></p>
