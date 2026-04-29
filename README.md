@@ -15,20 +15,18 @@ construído solo em 6 meses enquanto trabalhava como técnico de helpdesk N2.</p
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablo-cruzbr&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
-### 🚀 Sistema SaaS em Produção — AlltiControl
-
-**[AlltiControl](https://portifolio-metadata-api-v4.vercel.app/projeto/freelancer/ae6eaf20-2eff-482e-9517-03d91a77875e)**
+### [⚙️ AlltiControl — Sistema SaaS em Produção](https://portifolio-metadata-api-v4.vercel.app/projeto/freelancer/ae6eaf20-2eff-482e-9517-03d91a77875e)
 
 > Empresas de TI perdem horas por dia em sistemas burocráticos. O AlltiControl resolve isso — gestão completa de ordens de serviço em **2 telas**, usado por **68+ instituições públicas**.
 - Atualmente possui 68 usuários cadastrados 
 - Identifiquei um problema real de campo: técnicos perdendo tempo em sistemas legados com **5–6 telas por atendimento** — e construí a solução do zero
 - Desenvolvi e lancei um SaaS fullstack **solo em 6 meses**, paralelamente ao trabalho como técnico de helpdesk N2, sem equipe e sem orçamento
-- Reduzi em **83% o esforço manual** de abertura de chamados, devolvendo tempo para técnicos focarem no problema real do cliente
 - Sistema em operação em **68+ instituições públicas** — prefeituras, escolas e postos de saúde em Mogi das Cruzes/SP
 - Convenci a gestão apresentando protótipo funcional, resultando em **promoção a Desenvolvedor Fullstack** antes de completar 1 ano na empresa
-## 🌐 Portfólio
 
-**[Ver Todos os Projetos →](https://portifolio-metadata-api-v4.vercel.app/)**
+## [🍽️ Mestre das Comandas](https://mestre-da-comanda-saas-y5m2.vercel.app/)
+
+## [🌐 Portfólio](https://portifolio-metadata-api-v4.vercel.app/)
 
 ### 🛠️ Tecnologias e Ferramentas
 <p align="left">
