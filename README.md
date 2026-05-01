@@ -27,8 +27,11 @@ construído solo em 6 meses enquanto trabalhava como técnico de helpdesk N2.</p
 ## [🍽️ Mestre das Comandas](https://mestre-da-comanda-saas-y5m2.vercel.app/)
 > Atendimento lento é o caminho mais rápido para perder clientes. Eu criei o Mestre das Comandas para acabar com o vai-e-vem dos garçons: o pedido é feito na mesa pelo celular e cai direto na produção, reduzindo erros e acelerando o giro das mesas
 
-## [🌐 Portfólio](https://portifolio-metadata-api-v4.vercel.app/)
+## [Hackaton - Bugless: Ferramenta de Revisão de Código](https://bugless-psi.vercel.app/)
+> Ferramenta de revisão de código com inteligência artificial para desenvolvedores TypeScript
 
+## [🌐 Portfólio Full Stack](https://portifolio-metadata-api-v4.vercel.app/)
+> Ecossistema de Projetos: Galeria dinâmica integrada à minha própria API de metadados para gerenciamento centralizado e meu histórico de desenvolvimento.
 ### 🛠️ Tecnologias e Ferramentas
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind" />
