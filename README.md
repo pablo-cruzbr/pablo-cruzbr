@@ -25,6 +25,7 @@ construído solo em 6 meses enquanto trabalhava como técnico de helpdesk N2.</p
 - Convenci a gestão apresentando protótipo funcional, resultando em **promoção a Desenvolvedor Fullstack** antes de completar 1 ano na empresa
 
 ## [🍽️ Mestre das Comandas](https://mestre-da-comanda-saas-y5m2.vercel.app/)
+> Atendimento lento é o caminho mais rápido para perder clientes. Eu criei o Mestre das Comandas para acabar com o vai-e-vem dos garçons: o pedido é feito na mesa pelo celular e cai direto na produção, reduzindo erros e acelerando o giro das mesas
 
 ## [🌐 Portfólio](https://portifolio-metadata-api-v4.vercel.app/)
 
