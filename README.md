@@ -29,6 +29,7 @@ construído solo em 6 meses enquanto trabalhava como técnico de helpdesk N2.</p
 
 ## [🤖 Hackaton - Bugless: Ferramenta de Revisão de Código](https://bugless-psi.vercel.app/)
 > Ferramenta de revisão de código com inteligência artificial para desenvolvedores TypeScript
+> Time 4: Mario Yuri, Felipe Torres, Levy Rodrigues, Francisco Alexandro, Pablo Cruz
 
 ## [🌐 Portfólio Full Stack](https://portifolio-metadata-api-v4.vercel.app/)
 > Ecossistema de Projetos: Galeria dinâmica integrada à minha própria API de metadados para gerenciamento centralizado e meu histórico de desenvolvimento.
