@@ -3,7 +3,7 @@
   ### 👋 Sobre mim
   <p>Desenvolvedor Fullstack que resolve problemas reais com código.
 Autor do AlltiControl — SaaS em operação em 68+ instituições públicas,
-construído solo em 6 meses enquanto trabalhava como técnico de helpdesk N2.</p>
+construído solo em 10 meses enquanto trabalhava como técnico de helpdesk N2.</p>
   <p></p>
 
 <!-- START_SECTION:waka -->
@@ -20,7 +20,7 @@ construído solo em 6 meses enquanto trabalhava como técnico de helpdesk N2.</p
 > Empresas de TI perdem horas por dia em sistemas burocráticos. O AlltiControl resolve isso — gestão completa de ordens de serviço em **2 telas**, usado por **68+ instituições públicas**.
 - Atualmente possui 68 usuários cadastrados 
 - Identifiquei um problema real de campo: técnicos perdendo tempo em sistemas legados com **5–6 telas por atendimento** — e construí a solução do zero
-- Desenvolvi e lancei um SaaS fullstack **solo em 6 meses**, paralelamente ao trabalho como técnico de helpdesk N2, sem equipe e sem orçamento
+- Desenvolvi e lancei um SaaS fullstack **solo em 10 meses**, paralelamente ao trabalho como técnico de helpdesk N2, sem equipe e sem orçamento
 - Sistema em operação em **68+ instituições públicas** — prefeituras, escolas e postos de saúde em Mogi das Cruzes/SP
 - Convenci a gestão apresentando protótipo funcional, resultando em **promoção a Desenvolvedor Fullstack** antes de completar 1 ano na empresa
 
