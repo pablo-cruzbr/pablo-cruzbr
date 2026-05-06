@@ -4,7 +4,7 @@
   <p>Desenvolvedor Fullstack que resolve problemas reais com código.
 Autor do AlltiControl — SaaS em operação em 68+ instituições públicas,
 construído solo em 10 meses enquanto trabalhava como técnico de helpdesk N2.</p>
-  <p></p>
+  
 
 <!-- START_SECTION:waka -->
 <!-- O gráfico do WakaTime será injetado automaticamente aqui pelo GitHub Action -->
