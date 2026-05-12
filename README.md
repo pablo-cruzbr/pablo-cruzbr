@@ -42,7 +42,6 @@ construído solo em 10 meses enquanto trabalhava como técnico de helpdesk N2.</
 
   ### 🎓 Formação Acadêmica
   <p>📚 Cursando <strong>Sistemas de Informação</strong> na Universidade Cruzeiro do Sul.</p>
----
 
 ### 📲 Entre em contato
 
