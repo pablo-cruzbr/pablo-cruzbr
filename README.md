@@ -20,7 +20,10 @@ construído solo em 10 meses enquanto trabalhava como técnico de helpdesk N2.</
 - Convenci a gestão apresentando protótipo funcional, resultando em **promoção a Desenvolvedor Fullstack** 
 
 ## [🍽️ Mestre das Comandas](https://mestre-da-comanda-saas-y5m2.vercel.app/)
-> Atendimento lento é o caminho mais rápido para perder clientes. Eu criei o Mestre das Comandas para acabar com o vai-e-vem dos garçons: o pedido é feito na mesa pelo celular e cai direto na produção, reduzindo erros e acelerando o giro das mesas
+> Atendimento lento é o caminho mais rápido para perder cliente. O Mestre das Comandas acaba com o vai-e-vem: garçom faz o pedido pelo celular na mesa, cai direto na produção — menos erro, mais giro de mesa.
+- Arquitetura em 3 camadas: **app mobile para garçons** + **dashboard web** para cozinha/admin + API REST backend — fullstack completo em TypeScript
+- Pedido feito pelo celular cai direto na cozinha em tempo real — sem papel, sem ligação, sem erro de transcrição
+- Stack: Next.js · React Native · Expo · Node.js · PostgreSQL · Prisma
 
 ## [🤖 Hackaton - Bugless: Ferramenta de Revisão de Código](https://bugless-psi.vercel.app/)
 > Code review vira discussão de opinião quando deveria encontrar bugs reais. O Bugless resolve: revisão com IA focada em TypeScript que separa bug de preferência pessoal.
@@ -35,7 +38,10 @@ construído solo em 10 meses enquanto trabalhava como técnico de helpdesk N2.</
 - Time: Guilherme Resende, Nathan Vinicius, Pablo Cruz
 
 ## [🌐 Portfólio Full Stack](https://portifolio-metadata-api-v4.vercel.app/)
-> Ecossistema de Projetos: Galeria dinâmica integrada à minha própria API de metadados para gerenciamento centralizado e meu histórico de desenvolvimento.
+> Manter portfólio atualizado não deveria exigir mexer no frontend. Criei uma API de metadados própria: um lugar pra gerenciar todos os projetos, o frontend consome e exibe automaticamente.
+- Arquitetura **API-first**: o frontend não tem nenhum projeto hardcoded — todos os dados vêm da própria API dinamicamente
+- Gerenciamento centralizado: adicionar ou editar um projeto no portfólio não exige alterar código frontend
+- Stack: Next.js · TypeScript · Node.js · PostgreSQL · Prisma
 ### 🛠️ Tecnologias e Ferramentas
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind" />
