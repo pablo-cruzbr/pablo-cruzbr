@@ -23,7 +23,10 @@ construído solo em 10 meses enquanto trabalhava como técnico de helpdesk N2.</
 > Atendimento lento é o caminho mais rápido para perder clientes. Eu criei o Mestre das Comandas para acabar com o vai-e-vem dos garçons: o pedido é feito na mesa pelo celular e cai direto na produção, reduzindo erros e acelerando o giro das mesas
 
 ## [🤖 Hackaton - Bugless: Ferramenta de Revisão de Código](https://bugless-psi.vercel.app/)
-> Ferramenta de revisão de código com inteligência artificial para desenvolvedores TypeScript - Time 4: Mario Yuri, Felipe Torres, Levy Rodrigues, Francisco Alexandro, Pablo Cruz
+> Code review vira discussão de opinião quando deveria encontrar bugs reais. O Bugless resolve: revisão com IA focada em TypeScript que separa bug de preferência pessoal.
+- Análise **TypeScript-first** com menos de **10% de falsos positivos** — sinaliza problemas reais, não estilo
+- Revisão orientada a dados: *"catch bugs, not feelings"* — remove a subjetividade do processo de code review
+- Time: Mario Yuri, Felipe Torres, Levy Rodrigues, Francisco Alexandro, Pablo Cruz
 
 ## [🎯 Hackaton - Hone: Entrevistador de IA](https://frontend-five-virid-83.vercel.app/)
 > Candidatos estudam teoria mas travam em entrevistas ao vivo. O Hone resolve: entrevistador de IA que lê seu currículo, faz perguntas no seu nível e entrega feedback em tempo real.
