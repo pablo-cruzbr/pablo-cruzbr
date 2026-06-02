@@ -2,7 +2,7 @@
 
   ### 👋 Sobre mim
   <p>Desenvolvedor Fullstack em produção — promovido após construir o AlltiControl solo em 10 meses enquanto trabalhava como técnico N2. O sistema reduziu abertura de OS <strong>de 5–6 telas para 2</strong>, substituindo sistema legado em <strong>15+ órgãos públicos municipais</strong>.</p>
-  <p>Atualmente dev fullstack na Allti Service. Participo de hackathons com foco em IA — Bugless (code review com IA) e Hone (entrevistador de IA com LangGraph).</p>
+  <p>Participo de hackathons com foco em IA — Bugless (code review com IA) e Hone (entrevistador de IA com LangGraph).</p>
   <p><strong>Stack:</strong> TypeScript · React · Next.js · Node.js · React Native · PostgreSQL</p>
 
 ### 📊 Minhas Estatísticas do GitHub
