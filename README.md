@@ -25,6 +25,12 @@ construído solo em 10 meses enquanto trabalhava como técnico de helpdesk N2.</
 ## [🤖 Hackaton - Bugless: Ferramenta de Revisão de Código](https://bugless-psi.vercel.app/)
 > Ferramenta de revisão de código com inteligência artificial para desenvolvedores TypeScript - Time 4: Mario Yuri, Felipe Torres, Levy Rodrigues, Francisco Alexandro, Pablo Cruz
 
+## [🎯 Hackaton - Hone: Entrevistador de IA](https://github.com/ProgramadoresSemPatria/HB01-2026-ai-mock-interview)
+> Candidatos estudam teoria mas travam em entrevistas ao vivo. O Hone resolve: entrevistador de IA que lê seu currículo, faz perguntas no seu nível e entrega feedback em tempo real.
+- Agente de IA com estado persistente via **LangGraph** — entrevistas adaptadas ao currículo do candidato com respostas em **streaming token a token**
+- Processamento assíncrono de PDFs com **BullMQ + Redis** e feedback estruturado gerado automaticamente ao fim de cada sessão
+- Time: Guilherme Resende, Nathan Vinicius, Pablo Cruz
+
 ## [🌐 Portfólio Full Stack](https://portifolio-metadata-api-v4.vercel.app/)
 > Ecossistema de Projetos: Galeria dinâmica integrada à minha própria API de metadados para gerenciamento centralizado e meu histórico de desenvolvimento.
 ### 🛠️ Tecnologias e Ferramentas
@@ -41,7 +47,7 @@ construído solo em 10 meses enquanto trabalhava como técnico de helpdesk N2.</
 </p>
 
   ### 🎓 Formação Acadêmica
-  <p>📚 Cursando <strong>Sistemas de Informação</strong> na Universidade Cruzeiro do Sul.</p>
+  <p>📚 Cursando <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong>.</p>
 
 ### 📲 Entre em contato
 
