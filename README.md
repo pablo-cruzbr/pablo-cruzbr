@@ -25,7 +25,7 @@ construído solo em 10 meses enquanto trabalhava como técnico de helpdesk N2.</
 ## [🤖 Hackaton - Bugless: Ferramenta de Revisão de Código](https://bugless-psi.vercel.app/)
 > Ferramenta de revisão de código com inteligência artificial para desenvolvedores TypeScript - Time 4: Mario Yuri, Felipe Torres, Levy Rodrigues, Francisco Alexandro, Pablo Cruz
 
-## [🎯 Hackaton - Hone: Entrevistador de IA](https://github.com/ProgramadoresSemPatria/HB01-2026-ai-mock-interview)
+## [🎯 Hackaton - Hone: Entrevistador de IA](https://frontend-five-virid-83.vercel.app/)
 > Candidatos estudam teoria mas travam em entrevistas ao vivo. O Hone resolve: entrevistador de IA que lê seu currículo, faz perguntas no seu nível e entrega feedback em tempo real.
 - Agente de IA com estado persistente via **LangGraph** — entrevistas adaptadas ao currículo do candidato com respostas em **streaming token a token**
 - Processamento assíncrono de PDFs com **BullMQ + Redis** e feedback estruturado gerado automaticamente ao fim de cada sessão
