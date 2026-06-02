@@ -2,9 +2,8 @@
 
   ### 👋 Sobre mim
   <p>Desenvolvedor Fullstack em produção — promovido após construir o AlltiControl solo em 10 meses enquanto trabalhava como técnico N2. O sistema reduziu abertura de OS <strong>de 5–6 telas para 2</strong>, substituindo sistema legado em <strong>15+ órgãos públicos municipais</strong>.</p>
-  <p>Participo de hackathons com foco em IA — Bugless (code review com IA) e Hone (entrevistador de IA com LangGraph).</p>
-  <p><strong>Stack:</strong> TypeScript · React · Next.js · Node.js · React Native · PostgreSQL</p>
-
+  <p>Participei de hackathons com foco em IA — Bugless (code review com IA) e Hone (entrevistador de IA com LangGraph).</p>
+  
 ### 📊 Minhas Estatísticas do GitHub
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablo-cruzbr&theme=tokyonight&hide_border=true&cache_seconds=1800" />
