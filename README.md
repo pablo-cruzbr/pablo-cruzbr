@@ -2,7 +2,8 @@
 
 ```diff
 + Fullstack Developer — Sistema SaaS em produção
-! Construí o AlltiControl solo em 10 meses, paralelamente ainda como helpdesk N2
+! Construí o Software AlltiControl solo em 10 meses, paralelamente ainda como helpdesk N2
+! Resultado: promovido como Desenvolvedor Fullstack e sistema sendo usado pela empresa
 ! Hackathons com IA: BugLess (code review) e Hone (entrevistador com LangGraph)
 - Atualmente: Vercel AI SDK · LangChain · RAG
 ```
