@@ -1,15 +1,16 @@
-<div style="display: inline_block"><br>
-  
-  ### What's up! 👋 Pablo Cruz here
-  <p>Desenvolvedor Fullstack em produção — promovido após construir o AlltiControl solo em 10 meses enquanto trabalhava como técnico de helpdesk N2. O sistema reduziu abertura de OS <strong>de 5–6 telas para 2</strong>, substituindo sistema legado em <strong>15+ órgãos públicos municipais</strong>.</p>
-  <p>Atualmente estudando integração de IA em aplicações web com Vercel AI SDK e LangChain.</p>
-  <p>Participei de hackathons com foco em IA — Bugless (code review com IA) e Hone (entrevistador de IA com LangGraph).</p>
-  
-### 📊 Minhas Estatísticas do GitHub
-<p align="left">
+<h2 align="center">What's up! 👋 Pablo Cruz here</h2>
+
+```diff
++ Fullstack Developer — Sistema SaaS em produção
+! Construí o AlltiControl solo em 10 meses, paralelamente ao helpdesk N2
+! Hackathons com IA: BugLess (code review) e Hone (entrevistador com LangGraph)
+- Atualmente: Vercel AI SDK · LangChain · RAG
+```
+
+<h3 align="center">📊 Minhas Estatísticas do GitHub</h3>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablo-cruzbr&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
-
 ### [⚙️ AlltiControl — Sistema SaaS em Produção](https://landing-page-allti-control.vercel.app/)
 
 > Empresas de TI perdem horas por dia em sistemas burocráticos. O AlltiControl resolve isso — gestão completa de ordens de serviço em **2 telas**, em fase de implantação em redes públicas**.
