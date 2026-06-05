@@ -1,6 +1,6 @@
 <div style="display: inline_block"><br>
-
-  ### 👋 Sobre mim
+  
+  ### What's up! 👋 Pablo Cruz here
   <p>Desenvolvedor Fullstack em produção — promovido após construir o AlltiControl solo em 10 meses enquanto trabalhava como técnico de helpdesk N2. O sistema reduziu abertura de OS <strong>de 5–6 telas para 2</strong>, substituindo sistema legado em <strong>15+ órgãos públicos municipais</strong>.</p>
   <p>Atualmente estudando integração de IA em aplicações web com Vercel AI SDK e LangChain.</p>
   <p>Participei de hackathons com foco em IA — Bugless (code review com IA) e Hone (entrevistador de IA com LangGraph).</p>
