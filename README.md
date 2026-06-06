@@ -1,11 +1,10 @@
-<h2 align="center">What's up! 👋 Pablo Cruz here</h2>
+<h3 align="center">What's up! 👋 I'm Pablo Cruz — Fullstack Developer</h3>
 
 ```diff
-+ Fullstack Developer — Sistema SaaS em produção
-! Construí o Software AlltiControl solo em 10 meses, paralelamente ainda como helpdesk N2
-! Resultado: promovido como Desenvolvedor Fullstack e sistema sendo usado pela empresa
-! Hackathons com IA: BugLess (code review) e Hone (entrevistador com LangGraph)
-- Atualmente: Vercel AI SDK · LangChain · RAG
+! Construí o SaaS AlltiControl solo em 10 meses, paralelamente ao trabalho como helpdesk N2
++ Resultado: promovido a Desenvolvedor Fullstack — sistema em produção em instituições públicas
+! Participei de 2 Hackathons com IA: BugLess (code review) e Hone (entrevistador com LangGraph)
+- Atualmente estudando: Vercel AI SDK · LangChain · RAG
 ```
 
 <h3 align="center">📊 Minhas Estatísticas do GitHub</h3>
