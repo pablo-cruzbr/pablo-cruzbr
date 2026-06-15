@@ -4,7 +4,7 @@
 ! Construí o SaaS AlltiControl solo em 10 meses, paralelamente ao trabalho como helpdesk N2
 + Resultado: promovido a Desenvolvedor Fullstack — sistema em produção em instituições públicas
 ! Participei de 2 Hackathons com IA: BugLess (code review) e Hone (entrevistador com LangGraph)
-- Atualmente estudando: Vercel AI SDK · LangChain · RAG
+- Atualmente estudando: Vercel AI SDK · LangChain · RAG · LLM
 ```
 
 <h3 align="center">📊 Minhas Estatísticas do GitHub</h3>
