@@ -38,22 +38,14 @@
 > Manter portfólio atualizado não deveria exigir mexer no frontend. Criei uma API de metadados própria: um lugar pra gerenciar todos os projetos, o frontend consome e exibe automaticamente.
 
 ---
+### 🛠️ Tech Stack
 
-### 🛠️ Tecnologias e Ferramentas
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind" />
-  <a href="https://expo.dev" target="_blank">
-    <img src="https://cdn.simpleicons.org/expo/white" height="42" style="vertical-align: middle; margin-left: 8px;" />
-  </a>
-</p>
-
-#### 🗄️ Banco de Dados & Back-end
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma" />
-</p>
-
----
-
+**Languages:** JavaScript · TypeScript · SQL<br/>
+**Frontend:** React.js · Next.js · React Native · Tailwind CSS · Expo<br/>
+**Backend:** Node.js · Express · Prisma ORM · JWT<br/>
+**Database:** PostgreSQL · MySQL · MongoDB<br/>
+**DevOps/Cloud:** Docker · Vercel · Git<br/>
+**Other:** REST APIs · LangGraph · BullMQ · Redis · GitHub
 ### 🎓 Formação Acadêmica
 <p>📚 Cursando <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong>.</p>
 
