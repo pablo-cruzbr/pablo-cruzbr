@@ -13,31 +13,6 @@
 </p>
 
 ---
-
-### [⚙️ AlltiControl — Sistema SaaS em Produção](https://landing-page-allti-control.vercel.app/)
-> Empresas de TI perdem horas por dia em sistemas burocráticos. O AlltiControl resolve isso — gestão completa de ordens de serviço em **2 telas**, em fase de implantação em redes públicas.
-
----
-
-### [🍽️ Mestre das Comandas](https://mestre-da-comanda-saas-y5m2.vercel.app/)
-> Atendimento lento é o caminho mais rápido para perder cliente. O Mestre das Comandas acaba com o vai-e-vem: garçom faz o pedido pelo celular na mesa, cai direto na produção — menos erro, mais giro de mesa.
-
----
-
-### [🤖 Hackaton - Bugless: Ferramenta de Revisão de Código](https://bugless-psi.vercel.app/)
-> Code review vira discussão de opinião quando deveria encontrar bugs reais. O Bugless resolve: revisão com IA focada em TypeScript que separa bug de preferência pessoal.
-
----
-
-### [🎯 Hackaton - Hone: Entrevistador de IA](https://frontend-five-virid-83.vercel.app/)
-> Candidatos estudam teoria mas travam em entrevistas ao vivo. O Hone resolve: entrevistador de IA que lê seu currículo, faz perguntas no seu nível e entrega feedback em tempo real.
-
----
-
-### [🌐 Portfólio Full Stack](https://portifolio-metadata-api-v4.vercel.app/)
-> Manter portfólio atualizado não deveria exigir mexer no frontend. Criei uma API de metadados própria: um lugar pra gerenciar todos os projetos, o frontend consome e exibe automaticamente.
-
----
 ### 🛠️ Tech Stack
 
 **Languages:** JavaScript · TypeScript · SQL<br/>
