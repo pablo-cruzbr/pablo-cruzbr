@@ -1,7 +1,7 @@
 <h3 align="center">What's up! 👋 I'm Pablo Cruz — Fullstack Developer</h3>
 
 ```diff
-! Construí o SaaS Tech-OS solo em 10 meses, paralelamente ao trabalho como helpdesk N2
+! Construí o SaaS Fire OS solo em 10 meses, paralelamente ao trabalho como helpdesk N2
 + Resultado: promovido a Desenvolvedor Fullstack — sistema validado com 47 OS processadas em uso real
 ! Participei de 2 Hackathons com IA: BugLess (code review) e Hone (entrevistador com LangGraph)
 + Atualmente estudando: Vercel AI SDK · LangChain · RAG · LLM
@@ -14,7 +14,7 @@
 
 ---
 
-### [⚙️ Tech-OS — SaaS de Gestão de Ordens de Serviço](https://landing-page-allti-control.vercel.app/)
+### [⚙️ Fire OS — SaaS de Gestão de Ordens de Serviço](https://landing-page-allti-control.vercel.app/)
 
 > Empresas de TI perdem horas por dia em sistemas burocráticos. O AlltiControl resolveu isso — gestão completa de ordens de serviço em **2 telas**.
 
