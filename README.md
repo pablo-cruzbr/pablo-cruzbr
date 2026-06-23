@@ -14,7 +14,7 @@
 
 ---
 
-### [⚙️ AlltiControl — SaaS de Gestão de Ordens de Serviço](https://landing-page-allti-control.vercel.app/)
+### [⚙️ Tech-OS — SaaS de Gestão de Ordens de Serviço](https://landing-page-allti-control.vercel.app/)
 
 > Empresas de TI perdem horas por dia em sistemas burocráticos. O AlltiControl resolveu isso — gestão completa de ordens de serviço em **2 telas**.
 
