@@ -16,7 +16,7 @@
 
 ### [⚙️ Fire OS — SaaS de Gestão de Ordens de Serviço](https://landing-page-allti-control.vercel.app/)
 
-> Empresas de TI perdem horas por dia em sistemas burocráticos. O AlltiControl resolveu isso — gestão completa de ordens de serviço em **2 telas**.
+> Empresas de TI perdem horas por dia em sistemas burocráticos. O Fire OS resolveu isso — gestão completa de ordens de serviço em **2 telas**.
 
 - Identifiquei um problema real de campo: técnicos perdendo tempo em sistemas legados com **5–6 telas por atendimento** — e construí a solução do zero
 - Desenvolvi e lancei um SaaS fullstack **solo em 10 meses**, paralelamente ao trabalho como técnico de helpdesk N2, sem equipe e sem orçamento
