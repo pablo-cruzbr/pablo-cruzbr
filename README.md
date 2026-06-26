@@ -1,7 +1,6 @@
 <h3 align="center">What's up! 👋 I'm Pablo Cruz — Fullstack Developer</h3>
 
 ```diff
-! Construí o SaaS AlltiControl solo, operando em paralelo ao suporte técnico
 + Resultado: Desenvolvedor e criador de SaaS, validado com 44 ordens de serviço processadas em 2 meses de uso real
 ! Participei de 2 Hackathons com IA: BugLess (code review) e Hone (entrevistador com LangGraph)
 + Atualmente estudando: Vercel AI SDK · LangChain · RAG · LLM
