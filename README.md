@@ -1,9 +1,9 @@
 <h3 align="center">What's up! 👋 I'm Pablo Cruz — Fullstack Developer</h3>
 
 ```diff
-+ Resultado: Desenvolvedor e criador de SaaS, validado com 44 ordens de serviço processadas em 2 meses de uso real
-! Participei de 2 Hackathons com IA: BugLess (code review) e Hone (entrevistador com LangGraph)
-+ Atualmente estudando: Vercel AI SDK · LangChain · RAG · LLM
+! Construí o Fire OS solo, do zero, resolvendo um problema real de campo.
+! Validado em uso real: 44 ordens de serviço processadas em 2 meses.
+! Participei de 2 Hackathons com IA: BugLess e Hone (2º lugar, em incubação na Borderless Coding).
 ```
 
 <h3 align="center">📊 Minhas Estatísticas do GitHub</h3>
