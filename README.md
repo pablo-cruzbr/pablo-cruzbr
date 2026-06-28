@@ -1,9 +1,9 @@
 <h3 align="center">What's up! 👋 I'm Pablo Cruz — Fullstack Developer</h3>
 
 ```diff
-! Construí o Fire OS solo, do zero, resolvendo um problema real de campo.
-! Validado em uso real: 44 ordens de serviço processadas em 2 meses.
-! Participei de 2 Hackathons com IA: BugLess e Hone (2º lugar, em incubação na Borderless Coding).
++ Construí o Fire OS solo, do zero, resolvendo um problema real de campo.
++ Testado e validado em uso real: 44 ordens de serviço processadas em 2 meses por técnicos de campo.
++ Participei de 2 Hackathons com IA: BugLess e Hone, premiado com 2º lugar e em incubação na Borderless Coding.
 ```
 
 <h3 align="center">📊 Minhas Estatísticas do GitHub</h3>
