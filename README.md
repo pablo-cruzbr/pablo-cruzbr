@@ -13,6 +13,15 @@
 
 ---
 
+### [🎯 Hackaton - Hone: Entrevistador de IA](https://frontend-five-virid-83.vercel.app/)
+
+> Candidatos estudam teoria mas travam em entrevistas ao vivo. O Hone resolve: entrevistador de IA que lê seu currículo, faz perguntas no seu nível e entrega feedback em tempo real.
+
+- Agente de IA com estado persistente via **LangGraph** — entrevistas adaptadas ao currículo do candidato com respostas em **streaming token a token**
+- Processamento assíncrono de PDFs com **BullMQ + Redis** e feedback estruturado gerado automaticamente ao fim de cada sessão
+- Time: Guilherme Resende, Nathan Vinicius, Pablo Cruz
+
+---
 ### [⚙️ Fire OS — SaaS de Gestão de Ordens de Serviço](https://landing-page-fire-os.vercel.app/)
 
 > Empresas de TI perdem horas por dia em sistemas burocráticos. O Fire OS resolveu isso — gestão completa de ordens de serviço em **2 telas**.
@@ -42,16 +51,6 @@
 - Análise **TypeScript-first** com menos de **10% de falsos positivos** — sinaliza problemas reais, não estilo
 - Revisão orientada a dados: *"catch bugs, not feelings"* — remove a subjetividade do processo de code review
 - Time: Mario Yuri, Felipe Torres, Levy Rodrigues, Francisco Alexandro, Pablo Cruz
-
----
-
-### [🎯 Hackaton - Hone: Entrevistador de IA](https://frontend-five-virid-83.vercel.app/)
-
-> Candidatos estudam teoria mas travam em entrevistas ao vivo. O Hone resolve: entrevistador de IA que lê seu currículo, faz perguntas no seu nível e entrega feedback em tempo real.
-
-- Agente de IA com estado persistente via **LangGraph** — entrevistas adaptadas ao currículo do candidato com respostas em **streaming token a token**
-- Processamento assíncrono de PDFs com **BullMQ + Redis** e feedback estruturado gerado automaticamente ao fim de cada sessão
-- Time: Guilherme Resende, Nathan Vinicius, Pablo Cruz
 
 ---
 
