@@ -13,7 +13,7 @@
 
 ---
 
-### [🎯 Hackaton - Hone: Entrevistador de IA](https://frontend-five-virid-83.vercel.app/)
+### [🎯 Hackaton - Hone: Entrevistador de IA](https://hone-navy.vercel.app/)
 
 > Candidatos estudam teoria mas travam em entrevistas ao vivo. O Hone resolve: entrevistador de IA que lê seu currículo, faz perguntas no seu nível e entrega feedback em tempo real.
 
