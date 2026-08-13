@@ -77,7 +77,10 @@
   <img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma" />
 </p>
 
----
+### 🛠️ Infrastructure / DevOps
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,githubactions" />
+</p>
 
 ### 🎓 Formação Acadêmica
 <p>📚 Cursando <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong>.</p>
