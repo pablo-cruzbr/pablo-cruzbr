@@ -8,7 +8,7 @@ Desenvolvedor Fullstack especializado em Node.js, Next.js, React Native e TypeSc
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablo-cruzbr&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
-### 👨‍💻 Projetos em Destque
+<h3>👨‍💻 Projetos em Destque </h3>
 
 ### [🎯 Hackaton - Hone: Entrevistador de IA](https://labs.borderlesscoding.com/ai-mock-interview)
 
