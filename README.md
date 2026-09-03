@@ -1,6 +1,6 @@
 <h3 align="center">What's up! 👋 I'm Pablo Cruz — Fullstack Developer</h3>
 
-Desenvolvedor Fullstack especializado em Node.js, Next.js, React Native e TypeScript. Arquitetei e entreguei um Headless CMS completo — blog multilíngue, editor visual no-code e captura de leads — adotado pelo time de marketing. Anteriormente construí o Fire OS solo em 10 meses, reduzindo o fluxo de atendimento de 5–6 telas para 2 e validado com 44 ordens processadas em uso real. Co-construí o Hone, entrevistador de IA com LangGraph premiado com 2º lugar em hackathon e em incubação na Borderless Coding.
+Desenvolvedor Fullstack especializado em Node.js, Next.js, React Native e TypeScript. Arquitetei e entreguei um Headless CMS completo blog multilíngue, editor visual no-code e captura de leads adotado pelo time de marketing. Anteriormente construí o Fire OS solo em 10 meses, reduzindo o fluxo de atendimento de 5–6 telas para 2 e validado com 44 ordens processadas em uso real. Co-construí o Hone, entrevistador de IA com LangGraph premiado com 2º lugar em hackathon e em incubação na Borderless Coding.
 
 ---
 <h3 align="center">📊 Minhas Estatísticas do GitHub</h3>
