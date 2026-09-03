@@ -23,12 +23,10 @@ Desenvolvedor Fullstack especializado em Node.js, Next.js, React Native e TypeSc
 
 > Empresas de TI perdem horas por dia em sistemas burocráticos. O Fire OS resolveu isso — gestão completa de ordens de serviço em **2 telas**.
 
-- Identifiquei um problema real de campo: técnicos perdendo tempo em sistemas legados com **5–6 telas por atendimento** — e construí a solução do zero
-- Desenvolvi e lancei um SaaS fullstack **solo em 10 meses**, paralelamente ao trabalho como técnico de helpdesk N2, sem equipe e sem orçamento
-- Sistema entrou em uso real: **47 ordens de serviço processadas em 2 meses**, com 44 concluídas com sucesso
-- Validei arquitetura, fluxo de atendimento e usabilidade com técnicos e gestores em ambiente real de produção
-- Apresentei protótipo funcional à gestão, resultando em **promoção a Desenvolvedor Fullstack**
-  
+- Construí solo em 10 meses, identificando e resolvendo um problema real de campo: técnicos navegando **5–6 telas** por atendimento em sistemas legados
+- Validado em uso real: **47 ordens processadas em 2 meses**, com 44 concluídas — resultando em **promoção a Desenvolvedor Fullstack**
+- Implementei **RBAC**, filas assíncronas com **BullMQ + Redis** (uploads e workers), cache com padrão **group buy** (evita 9 consultas simultâneas no banco), middleware global de erros e validação com **Zod**
+- **33 testes unitários** com Prisma mockado + testes de integração com Testcontainers + E2E, com pipeline **CI/CD** automatizado
 ---
 
 ### [🍽️ Mestre das Comandas](https://mestre-da-comanda-saas-y5m2.vercel.app/)
