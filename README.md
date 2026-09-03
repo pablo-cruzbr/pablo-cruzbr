@@ -1,18 +1,14 @@
 <h3 align="center">What's up! 👋 I'm Pablo Cruz — Fullstack Developer</h3>
 
-```diff
-+ Arquitetei um Headless CMS corporativo do zero — blog multilíngue + editor visual no-code + captura de leads — adotado pelo time de marketing em produção no mesmo mês.
-+ Construí o Fire OS solo, do zero, resolvendo um problema real de campo: 44 ordens de serviço processadas em 2 meses por técnicos de campo.
-+ Participei de 2 Hackathons com IA: BugLess e Hone, premiado com 2º lugar e em incubação na Borderless Coding.
-+ Atualmente estudando: Vercel AI SDK · LangChain · RAG · LLM
-```
+Desenvolvedor Fullstack especializado em Node.js, Next.js, React Native e TypeScript. Arquitetei e entreguei um Headless CMS completo — blog multilíngue, editor visual no-code e captura de leads — adotado pelo time de marketing. Anteriormente construí o Fire OS solo em 10 meses, reduzindo o fluxo de atendimento de 5–6 telas para 2 e validado com 44 ordens processadas em uso real. Co-construí o Hone, entrevistador de IA com LangGraph premiado com 2º lugar em hackathon e em incubação na Borderless Coding.
 
+---
 <h3 align="center">📊 Minhas Estatísticas do GitHub</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablo-cruzbr&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
----
+### 👨‍💻 Projetos em Destque
 
 ### [🎯 Hackaton - Hone: Entrevistador de IA](https://labs.borderlesscoding.com/ai-mock-interview)
 
@@ -87,7 +83,6 @@
 <p>📚 Cursando <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong>.</p>
 
 ---
-
 ### 📲 Entre em contato
 <div>
   <a href="https://www.instagram.com/pablocruzdev/" target="_blank">
