@@ -78,9 +78,6 @@ Desenvolvedor Fullstack especializado em Node.js, Next.js, React Native e TypeSc
 <img src="https://skillicons.dev/icons?i=docker,githubactions" />
 </p>
 
-### 🎓 Formação Acadêmica
-<p>📚 Cursando <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong>.</p>
-
 ---
 ### 📲 Entre em contato
 <div>
