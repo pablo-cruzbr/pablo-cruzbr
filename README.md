@@ -1,5 +1,8 @@
 <h3 align="center">What's up! 👋 I'm Pablo Cruz — Fullstack Developer</h3>
 
+Sou um Engenheiro Full Stack apaixonado por criar aplicações escaláveis ​​com TypeScript, Next.js, Node.js e PostgreSQL.
+Gosto de atuar em toda a stack, enfrentar desafios complexos e desenvolver soluções limpas e eficientes.
+
 + Construí o Fire OS solo, do zero, resolvendo um problema real de campo: 44 ordens de serviço processadas em 2 meses por técnicos de campo.
 + Participei de 2 Hackathons com IA: BugLess e Hone, premiado com 2º lugar e em incubação na Borderless Coding.
 + Atualmente estudando: Vercel AI SDK · LangChain · RAG · LLM
@@ -31,16 +34,6 @@
 - **33 testes unitários** com Prisma mockado + testes de integração com Testcontainers + E2E, com pipeline **CI/CD** automatizado
 ---
 
-### [🍽️ Mestre das Comandas](https://mestre-da-comanda-saas-y5m2.vercel.app/)
-
-> Atendimento lento é o caminho mais rápido para perder cliente. O Mestre das Comandas acaba com o vai-e-vem: garçom faz o pedido pelo celular na mesa, cai direto na produção — menos erro, mais giro de mesa.
-
-- Arquitetura em 3 camadas: **app mobile para garçons** + **dashboard web** para cozinha/admin + API REST backend — fullstack completo em TypeScript
-- Pedido feito pelo celular cai direto na cozinha em tempo real — sem papel, sem ligação, sem erro de transcrição
-- Stack: Next.js · React Native · Expo · Node.js · PostgreSQL · Prisma
-
----
-
 ### [🤖 Hackaton - Bugless: Ferramenta de Revisão de Código](https://bugless-psi.vercel.app/)
 
 > Code review vira discussão de opinião quando deveria encontrar bugs reais. O Bugless resolve: revisão com IA focada em TypeScript que separa bug de preferência pessoal.
@@ -48,6 +41,15 @@
 - Análise **TypeScript-first** com menos de **10% de falsos positivos** — sinaliza problemas reais, não estilo
 - Revisão orientada a dados: *"catch bugs, not feelings"* — remove a subjetividade do processo de code review
 - Time: Mario Yuri, Felipe Torres, Levy Rodrigues, Francisco Alexandro, Pablo Cruz
+**
+
+### [🍽️ Mestre das Comandas](https://mestre-da-comanda-saas-y5m2.vercel.app/)
+
+> Atendimento lento é o caminho mais rápido para perder cliente. O Mestre das Comandas acaba com o vai-e-vem: garçom faz o pedido pelo celular na mesa, cai direto na produção — menos erro, mais giro de mesa.
+
+- Arquitetura em 3 camadas: **app mobile para garçons** + **dashboard web** para cozinha/admin + API REST backend — fullstack completo em TypeScript
+- Pedido feito pelo celular cai direto na cozinha em tempo real — sem papel, sem ligação, sem erro de transcrição
+- Stack: Next.js · React Native · Expo · Node.js · PostgreSQL · Prisma
 
 ---
 
