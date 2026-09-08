@@ -4,8 +4,8 @@ Engenheiro de Software com 2 anos de experiência e sólida expertise *full-stac
 
 Possui habilidades em sistemas distribuídos, design de APIs, microsserviços, sistemas de mensageria, bancos de dados SQL/NoSQL, Docker e melhores práticas de engenharia de software. Reconhecido por combinar profundidade técnica, visão de produto e responsabilidade de ponta a ponta para entregar soluções confiáveis ​​que geram resultados de negócio.
 
-+ Participei de 2 Hackathons com IA: BugLess e Hone, premiado com 2º lugar e em incubação na Borderless Coding.
-+ Atualmente estudando: Vercel AI SDK · LangChain · RAG · LLM
+- Participei de 2 Hackathons com IA: BugLess e Hone, premiado com 2º lugar e em incubação na [Borderless Coding](https://github.com/ProgramadoresSemPatria).
+- Atualmente estudando: · LangChain · LLM Systems · RAG  
 ---
 <h3 align="center">📊 Minhas Estatísticas do GitHub</h3>
 <p align="center">
