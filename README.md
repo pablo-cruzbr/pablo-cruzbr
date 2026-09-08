@@ -2,7 +2,7 @@
 
 Engenheiro de Software com 2 anos de experiência e sólida expertise *full-stack*, com um histórico comprovado na criação de produtos escaláveis ​​de ponta a ponta — do projeto de arquitetura ao *deploy* em produção. Experiente no desenvolvimento de sistemas com foco em *backend* utilizando Node.js, TypeScript ao mesmo tempo em que entrega aplicações *front-end* e móveis modernas com React, Next.js e React Native.
 
-Possui habilidades em sistemas distribuídos, design de APIs, microsserviços, sistemas de mensageria, bancos de dados SQL/NoSQL, Docker e melhores práticas de engenharia de software. Reconhecido por combinar profundidade técnica, visão de produto e responsabilidade de ponta a ponta para entregar soluções confiáveis ​​que geram resultados de negócio.
+Possuo habilidades em sistemas distribuídos, design de APIs, microsserviços, sistemas de mensageria, bancos de dados SQL/NoSQL, Docker e melhores práticas de engenharia de software. Reconhecido por combinar profundidade técnica, visão de produto e responsabilidade de ponta a ponta para entregar soluções confiáveis ​​que geram resultados de negócio.
 
 - Participei de 2 Hackathons com IA: BugLess e Hone, premiado com 2º lugar e em incubação na [Borderless Coding](https://github.com/ProgramadoresSemPatria).
 - Atualmente estudando: · LangChain · LLM Systems · RAG  
