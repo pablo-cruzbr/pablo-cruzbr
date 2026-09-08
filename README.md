@@ -3,7 +3,6 @@
 Sou um Engenheiro Full Stack apaixonado por criar aplicações escaláveis ​​com TypeScript, Next.js, Node.js e PostgreSQL.
 Gosto de atuar em toda a stack, enfrentar desafios complexos e desenvolver soluções limpas e eficientes.
 
-+ Construí o Fire OS solo, do zero, resolvendo um problema real de campo: 44 ordens de serviço processadas em 2 meses por técnicos de campo.
 + Participei de 2 Hackathons com IA: BugLess e Hone, premiado com 2º lugar e em incubação na Borderless Coding.
 + Atualmente estudando: Vercel AI SDK · LangChain · RAG · LLM
 ---
