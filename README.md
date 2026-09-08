@@ -62,7 +62,6 @@ Possuo habilidades em sistemas distribuídos, design de APIs, microsserviços, s
 - Stack: Next.js · TypeScript · Node.js · PostgreSQL · Prisma
 
 ---
-
 ### 🛠️ Tecnologias e Ferramentas
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind" />
@@ -76,11 +75,15 @@ Possuo habilidades em sistemas distribuídos, design de APIs, microsserviços, s
   <img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma" />
 </p>
 
-### 🛠️ Infrastructure / DevOps
+#### 🧪 Testes & Versionamento
 <p align="left">
-<img src="https://skillicons.dev/icons?i=docker,githubactions" />
+  <img src="https://skillicons.dev/icons?i=vitest,git,github" />
 </p>
 
+### 🛠️ Infrastructure / DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,githubactions" />
+</p>
 ---
 ### 📲 Entre em contato
 <div>
