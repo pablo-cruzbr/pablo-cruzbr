@@ -15,7 +15,7 @@ Possuo habilidades em sistemas distribuídos, design de APIs, microsserviços, s
 ---
 <h3>👨‍💻 Projetos em Destque </h3>
 
-### [🎯 Hone: Entrevistador de IA](https://labs.borderlesscoding.com/ai-mock-interview)
+### [🎯 Hone: AI Mock-Interview](https://labs.borderlesscoding.com/ai-mock-interview)
 
 > Candidatos estudam teoria mas travam em entrevistas ao vivo. O Hone resolve: entrevistador de IA que lê seu currículo, faz perguntas no seu nível e entrega feedback em tempo real.
 
