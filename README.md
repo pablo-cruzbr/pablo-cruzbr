@@ -15,7 +15,7 @@ Possuo habilidades em sistemas distribuídos, design de APIs, microsserviços, s
 ---
 <h3>👨‍💻 Projetos em Destque </h3>
 
-### [🎯 Hackaton - Hone: Entrevistador de IA](https://labs.borderlesscoding.com/ai-mock-interview)
+### [🎯 Hone: Entrevistador de IA](https://labs.borderlesscoding.com/ai-mock-interview)
 
 > Candidatos estudam teoria mas travam em entrevistas ao vivo. O Hone resolve: entrevistador de IA que lê seu currículo, faz perguntas no seu nível e entrega feedback em tempo real.
 
@@ -24,7 +24,7 @@ Possuo habilidades em sistemas distribuídos, design de APIs, microsserviços, s
 - Time: Guilherme Resende, Nathan Vinicius, Pablo Cruz
 
 ---
-### [⚙️ Fire OS — SaaS de Gestão de Ordens de Serviço](https://landing-page-fire-os.vercel.app/)
+### [⚙️ Fire OS — Gestão de Tickets](https://landing-page-fire-os.vercel.app/)
 
 > Empresas de TI perdem horas por dia em sistemas burocráticos. O Fire OS resolveu isso — gestão completa de ordens de serviço em **2 telas**.
 
@@ -34,7 +34,7 @@ Possuo habilidades em sistemas distribuídos, design de APIs, microsserviços, s
 - **33 testes unitários** com Prisma mockado + testes de integração com Testcontainers + E2E, com pipeline **CI/CD** automatizado
 ---
 
-### [🤖 Hackaton - Bugless: Ferramenta de Revisão de Código](https://bugless-psi.vercel.app/)
+### [🤖 Bugless: Ferramenta de Revisão de Código](https://bugless-psi.vercel.app/)
 
 > Code review vira discussão de opinião quando deveria encontrar bugs reais. O Bugless resolve: revisão com IA focada em TypeScript que separa bug de preferência pessoal.
 
