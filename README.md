@@ -1,10 +1,21 @@
 <h3 align="center">What's up! 👋 I'm Pablo Cruz — Fullstack Developer</h3>
 
-Engenheiro de Software com 2 anos de experiência e sólida expertise *full-stack*, com um histórico comprovado na criação de produtos escaláveis ​​de ponta a ponta — do projeto de arquitetura ao *deploy* em produção. Experiente no desenvolvimento de sistemas com foco em *backend* utilizando Node.js, TypeScript ao mesmo tempo em que entrega aplicações *front-end* e móveis modernas com React, Next.js e React Native.
+Desenvolvedor Fullstack com mais de 1 ano de experiência construindo
+sistemas reais do zero, com foco em fullstack e produtos com IA.
+Entreguei um Headless CMS multi-site com editor visual no-code,
+pipeline de publicação servindo 4 sites institucionais e ISR por path;
+um SaaS de gestão de campo com RBAC, filas BullMQ/Redis, cache group
+buy e 33 testes automatizados, validado com 47 ordens processadas em
+produção; e uma plataforma de entrevistas com IA usando LangGraph e
+streaming em tempo real, premiada com 2º lugar em hackathon e em
+incubação na [Borderless Coding](https://github.com/ProgramadoresSemPatria)
 
-Possuo habilidades em sistemas distribuídos, design de APIs, microsserviços, sistemas de mensageria, bancos de dados SQL/NoSQL, Docker e melhores práticas de engenharia de software. Reconhecido por combinar profundidade técnica, visão de produto e responsabilidade de ponta a ponta para entregar soluções confiáveis ​​que geram resultados de negócio.
+Habilidades em design de APIs REST, mensageria com BullMQ/Redis,
+bancos SQL/NoSQL, Docker, CI/CD e boas práticas de engenharia.
+Combino profundidade técnica com visão de produto para entregar
+soluções que geram impacto real no negócio.
 
-- Participei de 2 Hackathons com IA: BugLess e Hone, premiado com 2º lugar e em incubação na [Borderless Coding](https://github.com/ProgramadoresSemPatria).
+- Participações e Contribuições em Hackathons com IA: BugLess e Hone, premiado com 2º lugar e em incubação na.
 ---
 <h3 align="center">📊 Minhas Estatísticas do GitHub</h3>
 <p align="center">
