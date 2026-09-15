@@ -1,6 +1,6 @@
 <h3 align="center">What's up! 👋 I'm Pablo Cruz — Fullstack Developer</h3>
 
-Desenvolvedor Fullstack com mais de 2 ano de experiência construindo
+Desenvolvedor Fullstack com mais de 2 anos de experiência construindo
 sistemas reais do zero, com foco em fullstack e produtos com IA.
 Entreguei um Headless CMS multi-site com editor visual no-code,
 pipeline de publicação servindo 4 sites institucionais e ISR por path;
