@@ -27,7 +27,7 @@ soluções que geram impacto real no negócio.
 
 ### [🎯 Hone: AI Mock-Interview](https://labs.borderlesscoding.com/ai-mock-interview)
 
-> Candidatos estudam teoria mas travam em entrevistas ao vivo. O Hone resolve: entrevistador de IA que lê seu currículo, faz perguntas no seu nível e entrega feedback em tempo real.
+> Empresas de serviço perdem horas por dia em sistemas burocráticos. O Fire OS resolve isso: a gestão completa de ordens de serviço em 2 telas.
 
 - Agente de IA com estado persistente via **LangGraph** — entrevistas adaptadas ao currículo do candidato com respostas em **streaming token a token**
 - Processamento assíncrono de PDFs com **BullMQ + Redis** e feedback estruturado gerado automaticamente ao fim de cada sessão
