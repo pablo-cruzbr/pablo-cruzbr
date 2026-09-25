@@ -27,7 +27,7 @@ soluções que geram impacto real no negócio.
 
 ### [🎯 Hone: AI Mock-Interview](https://labs.borderlesscoding.com/ai-mock-interview)
 
-> Empresas de serviço perdem horas por dia em sistemas burocráticos. O Fire OS resolve isso: a gestão completa de ordens de serviço em 2 telas.
+> Engenheiros de Software estudam teoria mais travam em entrevistas ao vivo. O Hone resolve: entrevistador de IA que lê seu curriculo, faz entrevistas técnicas de acordo ao seu nivel desejado e entrega feedback em tempo real.
 
 - Agente de IA com estado persistente via **LangGraph** — entrevistas adaptadas ao currículo do candidato com respostas em **streaming token a token**
 - Processamento assíncrono de PDFs com **BullMQ + Redis** e feedback estruturado gerado automaticamente ao fim de cada sessão
@@ -36,7 +36,7 @@ soluções que geram impacto real no negócio.
 ---
 ### [⚙️ Fire OS — Gestão de Tickets](https://landing-page-fire-os.vercel.app/)
 
-> Empresas de TI perdem horas por dia em sistemas burocráticos. O Fire OS resolveu isso — gestão completa de ordens de serviço em **2 telas**.
+> Empresas de serviço perdem horas por dia em sistemas burocráticos. O Fire OS resolve isso: a gestão completa de ordens de serviço em 2 telas.
 
 - Construí solo em 10 meses, identificando e resolvendo um problema real de campo: técnicos navegando **5–6 telas** por atendimento em sistemas legados
 - Validado em uso real: **47 ordens processadas em 2 meses**, com 44 concluídas — resultando em **promoção a Desenvolvedor Fullstack**
