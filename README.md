@@ -34,7 +34,7 @@ soluções que geram impacto real no negócio.
 - Time: Guilherme Resende, Nathan Vinicius, Pablo Cruz
 
 ---
-### [⚙️ Fire OS — Gestão de Tickets](fire-os-saas.vercel.app)
+### [⚙️ Fire OS — Gestão de Tickets](https://fire-os-saas.vercel.app/)
 
 > Empresas de serviço perdem horas por dia em sistemas burocráticos. O Fire OS resolve isso: a gestão completa de ordens de serviço em 2 telas.
 
