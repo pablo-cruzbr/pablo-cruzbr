@@ -1,7 +1,6 @@
 <h3 align="center">What's up! 👋 I'm Pablo Cruz — Fullstack Developer</h3>
 
-Sou desenvolvedor Full Stack (TypeScript, Node.js, React e Next.js): construo sistemas reais do zero
-e os coloco em produção, da API ao deploy, com testes e CI. Numa indústria siderúrgica, unifiquei o ERP
+Construo sistemas reais do zero e os coloco em produção, da API ao deploy, com testes e CI. Numa indústria siderúrgica, unifiquei o ERP
 Comercial e as ferramentas de Compras num só módulo integrado ao ERP Omie (**88 mil produtos**
 sincronizados, **437 testes automatizados**) e criei uma plataforma de conteúdo headless com uma API
 servindo **6 front-ends**; antes, construí sozinho um SaaS de ordens de serviço com RBAC e filas
