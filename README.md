@@ -1,18 +1,14 @@
 <h3 align="center">What's up! 👋 I'm Pablo Cruz — Fullstack Developer</h3>
 
-Desenvolvedor Fullstack com mais de 2 anos de experiência construindo
-sistemas reais do zero, com foco em fullstack e produtos com IA.
-Entreguei um Headless CMS multi-site com editor visual no-code,
-pipeline de publicação servindo 4 sites institucionais e ISR por path;
-um SaaS de gestão de campo com RBAC, filas BullMQ/Redis, cache group
-buy e 33 testes automatizados, validado com 47 ordens processadas em
-produção; e uma plataforma de entrevistas com IA usando LangGraph e
-streaming em tempo real, premiada com 2º lugar em hackathon e incubado na Labs na [Borderless Coding](https://labs.borderlesscoding.com/?utm_source=direto&sck=direto&_gl=1*1mh880*_gcl_au*ODc2ODk0NzM5LjE3ODkzODI1NzMuODg2MjA2NTQ3LjE3OTE5ODY5NzEuMTc5MTk4Njk3Mi4xNDEwODI0Nzg5LjE3OTE5ODY5NzEuMTc5MTk4Njk3Mg..*_ga*MjE3MzQxOTg0LjE3ODkzODI1NzQ.*_ga_WNB1CPKQHF*czE3OTIxNTg0NDAkbzM0JGcwJHQxNzkyMTU4NDQwJGo2MCRsMCRoMTU4OTcxOTk3Nw..)
+Sou desenvolvedor Full Stack (TypeScript, Node.js, React e Next.js): construo sistemas reais do zero
+e os coloco em produção, da API ao deploy, com testes e CI. Numa indústria siderúrgica, unifiquei o ERP
+Comercial e as ferramentas de Compras num só módulo integrado ao ERP Omie (**88 mil produtos**
+sincronizados, **437 testes automatizados**) e criei uma plataforma de conteúdo headless com uma API
+servindo **6 front-ends**; antes, construí sozinho um SaaS de ordens de serviço com RBAC e filas
+BullMQ/Redis, validado com **44 de 47 ordens concluídas**. Também sou **co-founder do Hone**, plataforma de
+entrevistas técnicas com IA (LangGraph e streaming em tempo real), **2º lugar no Hackathon HB01-2026**
+e incubada na [Borderless Coding Labs](https://labs.borderlesscoding.com/?utm_source=direto&sck=direto&_gl=1*1mh880*_gcl_au*ODc2ODk0NzM5LjE3ODkzODI1NzMuODg2MjA2NTQ3LjE3OTE5ODY5NzEuMTc5MTk4Njk3Mi4xNDEwODI0Nzg5LjE3OTE5ODY5NzEuMTc5MTk4Njk3Mg..*_ga*MjE3MzQxOTg0LjE3ODkzODI1NzQ.*_ga_WNB1CPKQHF*czE3OTIxNTg0NDAkbzM0JGcwJHQxNzkyMTU4NDQwJGo2MCRsMCRoMTU4OTcxOTk3Nw..).
 
-Habilidades em design de APIs REST, mensageria com BullMQ/Redis,
-bancos SQL/NoSQL, Docker, CI/CD e boas práticas de engenharia.
-Combino profundidade técnica com visão de produto para entregar
-soluções que geram impacto real no negócio.
 
 - Participações e Contribuições em Hackathons com IA: BugLess e Hone, premiado com 2º lugar e em incubação na.
 ---
