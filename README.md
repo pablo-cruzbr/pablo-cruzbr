@@ -7,8 +7,7 @@ pipeline de publicação servindo 4 sites institucionais e ISR por path;
 um SaaS de gestão de campo com RBAC, filas BullMQ/Redis, cache group
 buy e 33 testes automatizados, validado com 47 ordens processadas em
 produção; e uma plataforma de entrevistas com IA usando LangGraph e
-streaming em tempo real, premiada com 2º lugar em hackathon e em
-incubação na [Borderless Coding](https://github.com/ProgramadoresSemPatria)
+streaming em tempo real, premiada com 2º lugar em hackathon e incubado na Labs na [Borderless Coding](https://labs.borderlesscoding.com/?utm_source=direto&sck=direto&_gl=1*1mh880*_gcl_au*ODc2ODk0NzM5LjE3ODkzODI1NzMuODg2MjA2NTQ3LjE3OTE5ODY5NzEuMTc5MTk4Njk3Mi4xNDEwODI0Nzg5LjE3OTE5ODY5NzEuMTc5MTk4Njk3Mg..*_ga*MjE3MzQxOTg0LjE3ODkzODI1NzQ.*_ga_WNB1CPKQHF*czE3OTIxNTg0NDAkbzM0JGcwJHQxNzkyMTU4NDQwJGo2MCRsMCRoMTU4OTcxOTk3Nw..)
 
 Habilidades em design de APIs REST, mensageria com BullMQ/Redis,
 bancos SQL/NoSQL, Docker, CI/CD e boas práticas de engenharia.
