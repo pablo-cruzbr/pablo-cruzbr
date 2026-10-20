@@ -1,20 +1,21 @@
 <h3 align="center">What's up! 👋 I'm Pablo Cruz — Fullstack Developer</h3>
 
-Construo sistemas reais do zero e os coloco em produção, da API ao deploy, com testes e CI. Numa indústria siderúrgica, unifiquei o ERP
-Comercial e as ferramentas de Compras num só módulo integrado ao ERP Omie (**88 mil produtos**
-sincronizados, **437 testes automatizados**) e criei uma plataforma de conteúdo headless com uma API
-servindo **6 front-ends**; antes, construí sozinho um SaaS de ordens de serviço com RBAC e filas
-BullMQ/Redis, validado com **44 de 47 ordens concluídas**. Também sou **co-founder do Hone**, plataforma de
-entrevistas técnicas com IA (LangGraph e streaming em tempo real), **2º lugar no Hackathon HB01-2026**
-e incubada na [Borderless Coding Labs](https://labs.borderlesscoding.com/?utm_source=direto&sck=direto&_gl=1*1mh880*_gcl_au*ODc2ODk0NzM5LjE3ODkzODI1NzMuODg2MjA2NTQ3LjE3OTE5ODY5NzEuMTc5MTk4Njk3Mi4xNDEwODI0Nzg5LjE3OTE5ODY5NzEuMTc5MTk4Njk3Mg..*_ga*MjE3MzQxOTg0LjE3ODkzODI1NzQ.*_ga_WNB1CPKQHF*czE3OTIxNTg0NDAkbzM0JGcwJHQxNzkyMTU4NDQwJGo2MCRsMCRoMTU4OTcxOTk3Nw..).
-
-
-- Participações e Contribuições em Hackathons com IA: BugLess e Hone, premiado com 2º lugar e em incubação na.
----
 <h3 align="center">📊 Minhas Estatísticas do GitHub</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablo-cruzbr&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
+
+**Desenvolvedor Full Stack** que constrói sistemas do zero até a produção e tira processos de planilhas e ferramentas soltas.
+
+Experiência prática em integrações com ERP, APIs REST com regras de negócio complexas, controle de acesso integrado a um provedor de identidade externo e migração de sistema legado com conferência antes de gravar.
+
+Foco em confiabilidade e desempenho: concorrência entre instâncias com travas no PostgreSQL, idempotência, concorrência otimista e testes de integração contra banco real. Sincronizei **88 mil produtos** com **98,9%** importados sem dado inventado, levei uma tela de **2.000 itens** de 4,5 s para **50 ms** por tecla, reduzi uma imagem Docker de 1,6 GB para 963 MB e mantenho o módulo coberto por **437 testes automatizados**. Num SaaS para técnicos de campo que construí sozinho, o atendimento caiu de 5 a 6 telas para 2, validado com **44 de 47 atendimentos concluídos** em uso real.
+
+Base full stack em TypeScript, Node.js (Express, NestJS), React, Next.js, PostgreSQL com Prisma, BullMQ e Redis, Docker e CI/CD com GitHub Actions, com ownership do banco ao deploy.
+
+Trabalho junto com DBA, backend, front-end e chão de fábrica por contratos escritos entre os times, e documento cada decisão técnica com o custo que ela teve.
+
+Participei de 2 hackathons com IA, sempre em equipe. No primeiro construímos o **BugLess**; no segundo, o **Hone**, plataforma de entrevistas técnicas com IA (LangGraph e streaming em tempo real), que ficou em **2º lugar no Hackathon HB01-2026** e hoje está incubada na [Borderless Coding Labs](https://labs.borderlesscoding.com/), onde sou **co-founder**. No Hone, fiquei responsável por [sua parte, ex.: o fluxo de agentes com LangGraph e o streaming via SSE].
 
 ---
 <h3>👨‍💻 Projetos em Destque </h3>
@@ -28,67 +29,39 @@ e incubada na [Borderless Coding Labs](https://labs.borderlesscoding.com/?utm_so
 - Time: Guilherme Resende, Nathan Vinicius, Pablo Cruz
 
 ---
-### [⚙️ Fire OS — Gestão de Tickets](https://fire-os-saas.vercel.app/)
-
-> Empresas de serviço perdem horas por dia em sistemas burocráticos. O Fire OS resolve isso: a gestão completa de ordens de serviço em 2 telas.
-
-- Construí solo em 10 meses, identificando e resolvendo um problema real de campo: técnicos navegando **5–6 telas** por atendimento em sistemas legados
-- Validado em uso real: **47 ordens processadas em 2 meses**, com 44 concluídas — resultando em **promoção a Desenvolvedor Fullstack**
-- Implementei **RBAC**, filas assíncronas com **BullMQ + Redis** (uploads e workers), cache com padrão **group buy** (evita 9 consultas simultâneas no banco), middleware global de erros e validação com **Zod**
-- **33 testes unitários** com Prisma mockado + testes de integração com Testcontainers + E2E, com pipeline **CI/CD** automatizado
----
-
-### [🤖 Bugless: Ferramenta de Revisão de Código](https://bugless-psi.vercel.app/)
+### [🤖 Bugless: code review com IA que encontra bugs, não opiniões](https://bugless-psi.vercel.app/)
 
 > Code review vira discussão de opinião quando deveria encontrar bugs reais. O Bugless resolve: revisão com IA focada em TypeScript que separa bug de preferência pessoal.
 
 - Análise **TypeScript-first** com menos de **10% de falsos positivos** — sinaliza problemas reais, não estilo
 - Revisão orientada a dados: *"catch bugs, not feelings"* — remove a subjetividade do processo de code review
 - Time: Mario Yuri, Felipe Torres, Levy Rodrigues, Francisco Alexandro, Pablo Cruz
-**
+
+### [⚙️  Fire OS - Tickets Inteligentes: a IA Aponta, Você Decide](https://fire-os-saas.vercel.app/)
+
+> Empresas de serviço técnico informática, hidráulica, mecânica perdem tempo garimpando número espalhado em tela diferente pra saber como anda a operação. O Fire OS resolve: o gestor pergunta em português pro painel e recebe não só a resposta, mas o próximo passo já sugerido.
+---
+
+
 
 ### [🍽️ Mestre das Comandas](https://mestre-da-comanda-saas-y5m2.vercel.app/)
 
-> Atendimento lento é o caminho mais rápido para perder cliente. O Mestre das Comandas acaba com o vai-e-vem: garçom faz o pedido pelo celular na mesa, cai direto na produção — menos erro, mais giro de mesa.
+> Atendimento lento é o caminho mais rápido para perder cliente. O Mestre das Comandas acaba com o vai e vem: garçom faz o pedido pelo celular na mesa, cai direto na produção — menos erro, mais giro de mesa em seu comercio local.
 
 - Arquitetura em 3 camadas: **app mobile para garçons** + **dashboard web** para cozinha/admin + API REST backend — fullstack completo em TypeScript
 - Pedido feito pelo celular cai direto na cozinha em tempo real — sem papel, sem ligação, sem erro de transcrição
 - Stack: Next.js · React Native · Expo · Node.js · PostgreSQL · Prisma
 
 ---
-
-### [🌐 Portfólio Full Stack](https://portifolio-metadata-api-v4.vercel.app/)
-
-> Manter portfólio atualizado não deveria exigir mexer no frontend. Criei uma API de metadados própria: um lugar pra gerenciar todos os projetos, o frontend consome e exibe automaticamente.
-
-- Arquitetura **API-first**: o frontend não tem nenhum projeto hardcoded — todos os dados vêm da própria API dinamicamente
-- Gerenciamento centralizado: adicionar ou editar um projeto no portfólio não exige alterar código frontend
-- Stack: Next.js · TypeScript · Node.js · PostgreSQL · Prisma
-
----
-### 🛠️ Tecnologias e Ferramentas
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind" />
-  <a href="https://expo.dev" target="_blank">
-    <img src="https://cdn.simpleicons.org/expo/white" height="42" style="vertical-align: middle; margin-left: 8px;" />
-  </a>
-</p>
-
-#### 🗄️ Banco de Dados & Back-end
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma" />
-</p>
-
-#### 🧪 Testes & Versionamento
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vitest,git,github" />
-</p>
-
-### 🛠️ Infrastructure / DevOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions" />
-</p>
-
+### Core Skills
+- **Architecture:** Clean Architecture, DDD, MVC, Hexagonal Architecture, SOLID
+- **Backend / APIs:** Node.js, Prisma, TypeScript, JavaScript
+- **Observability / AI Ops:** monitoring, data quality checks, incident diagnosis, observability for agentic workflows, operational feedback loops, answer reliability improvement
+- **AI / LLM Systems:** LangGraph, agentes de IA, streaming (SSE), prompt engineering
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Infrastructure / DevOps:** Docker, CI/CD with GitHub Actions
+- **Frontend:** React, Next.js, Tailwind CSS, React Native (Expo)
+- **Other:** Automated testing (Vitest, Jest), RabbitMQ, Git, GitHub
 ---
 
 ### 📲 Entre em contato
