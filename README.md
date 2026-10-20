@@ -1,10 +1,5 @@
 <h3 align="center">What's up! 👋 I'm Pablo Cruz — Fullstack Developer</h3>
 
-<h3 align="center">📊 Minhas Estatísticas</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablo-cruzbr&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
 **Desenvolvedor Full Stack** que constrói sistemas do zero até a produção e tira processos de planilhas e ferramentas soltas.
 
 Experiência prática em integrações com ERP, APIs REST com regras de negócio complexas, controle de acesso integrado a um provedor de identidade externo e migração de sistema legado com conferência antes de gravar.
@@ -18,6 +13,11 @@ Trabalho junto com DBA, backend, front-end e chão de fábrica por contratos esc
 Participei de 2 hackathons com IA, sempre em equipe. No primeiro construímos o **BugLess**; no segundo, o **Hone**, plataforma de entrevistas técnicas com IA (LangGraph e streaming em tempo real), que ficou em **2º lugar no Hackathon HB01-2026** e hoje está incubada na [Borderless Coding Labs](https://labs.borderlesscoding.com/), onde sou **co-founder**. No Hone, fiquei responsável por [sua parte, ex.: o fluxo de agentes com LangGraph e o streaming via SSE].
 
 ---
+<h3 align="center">📊 Minhas Estatísticas</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablo-cruzbr&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+
 <h3>👨‍💻 Projetos em Destque </h3>
 
 ### [🎯 Hone: AI Mock-Interview](https://labs.borderlesscoding.com/ai-mock-interview)
