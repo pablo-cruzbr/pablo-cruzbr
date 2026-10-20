@@ -39,7 +39,7 @@ Participei de 2 hackathons com IA, sempre em equipe. No primeiro construímos o 
 
 ### [⚙️  Fire OS - Tickets Inteligentes: a IA Aponta, Você Decide](https://fire-os-saas.vercel.app/)
 
-> Empresas de serviço técnico informática, hidráulica, mecânica perdem tempo garimpando número espalhado em tela diferente pra saber como anda a operação. O Fire OS resolve: o gestor pergunta em português pro painel e recebe não só a resposta, mas o próximo passo já sugerido.
+> Empresas que prestam serviços técnicos como informática, hidráulica, mecânica etc, perdem tempo garimpando número espalhado em tela diferente pra saber como anda a operação. O Fire OS resolve: o gestor pergunta em português pro painel e recebe não só a resposta, mas o próximo passo já sugerido.
 ---
 
 
