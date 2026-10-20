@@ -1,6 +1,6 @@
 <h3 align="center">What's up! 👋 I'm Pablo Cruz — Fullstack Developer</h3>
 
-<h3 align="center">📊 Minhas Estatísticas do GitHub</h3>
+<h3 align="center">📊 Minhas Estatísticas</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablo-cruzbr&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
