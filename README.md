@@ -54,14 +54,14 @@ Participei de 2 hackathons com IA, sempre em equipe. No primeiro construímos o 
 
 ---
 ### Core Skills
-- **Architecture:** Clean Architecture, DDD, MVC, Hexagonal Architecture, SOLID
-- **Backend / APIs:** Node.js, Prisma, TypeScript, JavaScript
-- **Observability / AI Ops:** monitoring, data quality checks, incident diagnosis, observability for agentic workflows, operational feedback loops, answer reliability improvement
-- **AI / LLM Systems:** LangGraph, agentes de IA, streaming (SSE), prompt engineering
-- **Databases:** PostgreSQL, MySQL, MongoDB
-- **Infrastructure / DevOps:** Docker, CI/CD with GitHub Actions
-- **Frontend:** React, Next.js, Tailwind CSS, React Native (Expo)
-- **Other:** Automated testing (Vitest, Jest), RabbitMQ, Git, GitHub
+- **Arquitetura:** Clean Architecture, DDD, MVC, Arquitetura Hexagonal, SOLID
+- **Back-end / APIs:** Node.js, Prisma, TypeScript, JavaScript
+- **Observabilidade / AI Ops:** monitoramento, verificação de qualidade de dados, diagnóstico de incidentes, observabilidade de fluxos agênticos, ciclos de feedback operacional, melhoria da confiabilidade das respostas
+- **IA / Sistemas com LLM:** LangGraph, agentes de IA, streaming (SSE), engenharia de prompt
+- **Bancos de Dados:** PostgreSQL, MySQL, MongoDB
+- **Infraestrutura / DevOps:** Docker, CI/CD com GitHub Actions
+- **Front-end:** React, Next.js, Tailwind CSS, React Native (Expo)
+- **Outros:** testes automatizados (Vitest, Jest), RabbitMQ, Git, GitHub
 ---
 ### 📲 Entre em contato
 
