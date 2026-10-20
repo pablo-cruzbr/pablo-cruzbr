@@ -71,9 +71,10 @@ Participei de 2 hackathons com IA, sempre em equipe. No primeiro construímos o 
   </a>
 </div>
 
-- 🌐 **Portfólio:** [pablocruz.vercel.app](https://pablocruz.vercel.app/)
+
 - 📧 **E-mail:** [pablocruzdev@gmail.com](mailto:pablocruzdev@gmail.com)
 - 📱 **WhatsApp:** [(11) 97252-3448](https://wa.me/5511972523448)
 - 📍 **Localização:** São Paulo, Brasil
+- 🌐 **Portfólio:** [pablocruz.vercel.app](https://pablocruz.vercel.app/)
 
 <p align="center">🚀 GO GLOBAL OR NOTHING</p>
