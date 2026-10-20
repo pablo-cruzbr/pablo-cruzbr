@@ -13,14 +13,14 @@ Trabalho junto com DBA, backend, front-end e chão de fábrica por contratos esc
 Participei de 2 hackathons com IA, sempre em equipe. No primeiro construímos o **BugLess**; no segundo, o **Hone**, plataforma de entrevistas técnicas com IA (LangGraph e streaming em tempo real), que ficou em **2º lugar no Hackathon HB01-2026** e hoje está incubada na [Borderless Coding Labs](https://labs.borderlesscoding.com/), onde sou **co-founder**. No Hone, fiquei responsável por [sua parte, ex.: o fluxo de agentes com LangGraph e o streaming via SSE].
 
 ---
-<h4 align="center">📊 Minhas Estatísticas</h4>
+<h3 align="center">📊 Minhas Estatísticas</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablo-cruzbr&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
-<h4>👨‍💻 Projetos em Destque </h4>
+<h3>👨‍💻 Projetos em Destaque </h3>
 
-**[🎯 Hone: AI mock-interview](https://labs.borderlesscoding.com/ai-mock-interview)**
+### [🎯 Hone: AI mock-interview](https://labs.borderlesscoding.com/ai-mock-interview)
 
 > Engenheiros de software estudam teoria mais travam em entrevistas ao vivo. O Hone resolve: entrevistador de IA que lê seu curriculo, faz entrevistas técnicas de acordo ao seu nivel desejado e entrega feedback em tempo real.
 
@@ -30,7 +30,7 @@ Participei de 2 hackathons com IA, sempre em equipe. No primeiro construímos o 
 
 ---
 
-**[🤖 Bugless: code review com IA que encontra bugs, não opiniões](https://bugless-psi.vercel.app/)**
+### [🤖 Bugless: code review com IA que encontra bugs, não opiniões](https://bugless-psi.vercel.app/)
 
 > Code review vira discussão de opinião quando deveria encontrar bugs reais. O Bugless resolve: revisão com IA focada em TypeScript que separa bug de preferência pessoal.
 
@@ -40,13 +40,13 @@ Participei de 2 hackathons com IA, sempre em equipe. No primeiro construímos o 
 
 ---
 
-**[⚙️ Fire OS - tickets inteligentes: a IA aponta, você decide](https://fire-os-saas.vercel.app/)**
+### [⚙️ Fire OS - tickets inteligentes: a IA aponta, você decide](https://fire-os-saas.vercel.app/)
 
 > Empresas que prestam serviços técnicos como informática, hidráulica, mecânica etc, perdem tempo garimpando número espalhado em tela diferente pra saber como anda a operação. O Fire OS resolve: o gestor pergunta em português pro painel e recebe não só a resposta, mas o próximo passo já sugerido.
 
 ---
 
-**[🍽️ Mestre das Comandas](https://mestre-da-comanda-saas-y5m2.vercel.app/)**
+### [🍽️ Mestre das Comandas](https://mestre-da-comanda-saas-y5m2.vercel.app/)
 
 > Atendimento lento é o caminho mais rápido para perder cliente. O Mestre das Comandas acaba com o vai e vem: garçom faz o pedido pelo celular na mesa, cai direto na produção — menos erro, mais giro de mesa em seu comercio local.
 
