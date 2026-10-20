@@ -63,15 +63,26 @@ Participei de 2 hackathons com IA, sempre em equipe. No primeiro construímos o 
 - **Frontend:** React, Next.js, Tailwind CSS, React Native (Expo)
 - **Other:** Automated testing (Vitest, Jest), RabbitMQ, Git, GitHub
 ---
-
 ### 📲 Entre em contato
+
 <div>
-  <a href="https://www.instagram.com/pablocruzdev/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://pablocruz.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/pablo-cruz-5b937525b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/pablocruzdev/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:pablocruzdev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
+
+- 🌐 **Portfólio:** [pablocruz.vercel.app](https://pablocruz.vercel.app/)
+- 📧 **E-mail:** [pablocruzdev@gmail.com](mailto:pablocruzdev@gmail.com)
+- 📱 **WhatsApp:** [(11) 97252-3448](https://wa.me/5511972523448)
+- 📍 **Localização:** São Paulo, Brasil
 
 <p align="center">🚀 GO GLOBAL OR NOTHING</p>
