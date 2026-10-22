@@ -17,12 +17,11 @@ Construo sistemas full stack em produção com TypeScript, Node.js e PostgreSQL 
 
 | O quê | Resultado |
 |---|---|
-| Sincronização do catálogo com o ERP | **88 mil produtos** · 98,9% importados sem dado inventado |
-| Otimização de tela com 2.000 itens | **4,5 s → 50 ms** por tecla |
-| Redução da imagem Docker | **1,6 GB → 963 MB** (−40%) |
+| Modo de revisão com IA no Hone (feito de ponta a ponta) | cada resposta avaliada pela IA, e as fracas viram **revisão personalizada** · produto **2º lugar no HB01-2026**, incubado na Borderless |
+| Sincronização de catálogo com ERP | **88 mil produtos** · 98,9% importados sem dado inventado |
+| Otimizações de tela com 2.000 itens | **4,5 s → 50 ms** por tecla |
 | Testes automatizados do módulo | **437 testes**, com integração contra banco real |
-| SaaS para técnicos de campo (construído sozinho) | atendimento de **5–6 telas → 2** · 44 de 47 concluídos em uso real |
-| Code review com IA (Bugless) | **< 10%** de falsos positivos |
+| Primeiro teste de ponta a ponta (TestContainers) Saas Fire OS | bug que dava erro 500 em **48 controllers** encontrado com 228 testes unitários verdes |
 
 <h3 align="left">📊 GitHub Stats</h3>
 
