@@ -5,11 +5,10 @@ Construo e integro APIs escaláveis em produção com TypeScript, Node.js e Post
 > 🚀 **Co-founder do [Hone](https://labs.borderlesscoding.com/ai-mock-interview)**: simulações de entrevista técnica com IA e feedback acionável. **2º lugar no Hackathon HB01-2026** e incubado na **[Borderless Coding Labs](https://labs.borderlesscoding.com/)** (EUA), o estúdio de produtos de IA da Borderless.
 
 ### 🧱 O que eu construo
-
-- Integrações com ERP em produção (Omie, multiempresa, sincronização incremental)
-- APIs REST com regras de negócio complexas (Express, NestJS, Prisma)
-- Sistemas concorrentes e confiáveis (travas no PostgreSQL, idempotência, filas com BullMQ)
 - Produtos com IA (agentes com LangGraph, streaming em tempo real)
+- APIs REST com regras de negócio complexas (Express, NestJS, Prisma)
+- Integrações com ERP em produção (Omie, multiempresa, sincronização incremental)
+- Sistemas concorrentes e confiáveis (travas no PostgreSQL, idempotência, filas com BullMQ)
 
 ---
 
