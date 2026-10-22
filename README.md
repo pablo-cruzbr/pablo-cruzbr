@@ -45,10 +45,6 @@ Construo e integro APIs escaláveis em produção com TypeScript, Node.js e Post
 
 > Code review vira discussão de opinião quando deveria encontrar bugs reais. O Bugless resolve: revisão com IA focada em TypeScript que separa bug de preferência pessoal.
 
-- Análise **TypeScript-first** com menos de **10% de falsos positivos** — sinaliza problemas reais, não estilo
-- Revisão orientada a dados: *"catch bugs, not feelings"* — remove a subjetividade do processo de code review
-- Time: Mario Yuri, Felipe Torres, Levy Rodrigues, Francisco Alexandro, Pablo Cruz
-
 ---
 
 ### [⚙️ Fire OS - tickets inteligentes: a IA aponta, você decide](https://fire-os-saas.vercel.app/)
@@ -63,7 +59,6 @@ Construo e integro APIs escaláveis em produção com TypeScript, Node.js e Post
 
 - Arquitetura em 3 camadas: **app mobile para garçons** + **dashboard web** para cozinha/admin + API REST backend — fullstack completo em TypeScript
 - Pedido feito pelo celular cai direto na cozinha em tempo real — sem papel, sem ligação, sem erro de transcrição
-- Stack: Next.js · React Native · Expo · Node.js · PostgreSQL · Prisma
 
 ---
 ### 🛠️ Technologies and Tools
