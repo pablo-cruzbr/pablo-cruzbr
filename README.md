@@ -36,7 +36,7 @@ Construo e integro APIs escaláveis em produção com TypeScript, Node.js e Post
 
 - Agente de IA com estado persistente via **LangGraph** — entrevistas adaptadas ao currículo do candidato com respostas em **streaming token a token**
 - Processamento assíncrono de PDFs com **BullMQ + Redis** e feedback estruturado gerado automaticamente ao fim de cada sessão
-- Time: Guilherme Resende, Nathan Vinicius, Pablo Cruz
+- Time: Guilherme Resende, Pablo Cruz, Nathan Vinicius 
 
 ---
 
