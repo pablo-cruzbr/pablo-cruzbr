@@ -13,11 +13,12 @@ Trabalho junto com DBA, backend, front-end e chão de fábrica por contratos esc
 Participei de 2 hackathons com IA, sempre em equipe. No primeiro construímos o **BugLess**; no segundo, o **Hone**, plataforma de entrevistas técnicas com IA (LangGraph e streaming em tempo real), que ficou em **2º lugar no Hackathon HB01-2026** e hoje está incubada na [Borderless Coding Labs](https://labs.borderlesscoding.com/), onde sou **co-founder**. No Hone, fiquei responsável por [sua parte, ex.: o fluxo de agentes com LangGraph e o streaming via SSE].
 
 ---
-<h3 align="center">📊 Minhas Estatísticas</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablo-cruzbr&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
+<h3 align="left">📊 GitHub Stats</h3>
 
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablo-cruzbr&hide_border=true&background=00000000&ring=2F81F7&fire=2F81F7&currStreakNum=FFFFFF&sideNums=4493F8&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=8B949E&stroke=8B949E&cache_seconds=1800" />
+</p>
+    
 <h3>👨‍💻 Projetos em Destaque </h3>
 
 ### [🎯 Hone: AI mock-interview](https://labs.borderlesscoding.com/ai-mock-interview)
@@ -55,14 +56,21 @@ Participei de 2 hackathons com IA, sempre em equipe. No primeiro construímos o 
 - Stack: Next.js · React Native · Expo · Node.js · PostgreSQL · Prisma
 
 ---
-### Core Skills
+### 🛠️ Technologies and Tools
 - **Arquitetura:** Clean Architecture, DDD, MVC, Arquitetura Hexagonal, SOLID
+  
 - **Back-end / APIs:** Node.js, Prisma, TypeScript, JavaScript
+
+- **Bancos de Dados:** PostgreSQL, MySQL, MongoDB  
+
 - **Observabilidade / AI Ops:** monitoramento, verificação de qualidade de dados, diagnóstico de incidentes, observabilidade de fluxos agênticos, ciclos de feedback operacional, melhoria da confiabilidade das respostas
+
 - **IA / Sistemas com LLM:** LangGraph, agentes de IA, streaming (SSE), engenharia de prompt
-- **Bancos de Dados:** PostgreSQL, MySQL, MongoDB
+  
 - **Infraestrutura / DevOps:** Docker, CI/CD com GitHub Actions
+  
 - **Front-end:** React, Next.js, Tailwind CSS, React Native (Expo)
+
 - **Outros:** testes automatizados (Vitest, Jest), RabbitMQ, Git, GitHub
 ---
 
