@@ -1,6 +1,6 @@
 <h4 align="left">👋 I'm Pablo Cruz — Fullstack Developer</h4>
 
-Construo e integro APIs em produção com TypeScript, Node.js e PostgreSQL: conecto ERP, plataformas e aplicações com foco em confiabilidade, filas e desempenho, com sincronização escalável de 88 mil produtos entre ERP e plataforma.
+Construo e integro APIs escaláveis em produção com TypeScript, Node.js e PostgreSQL, conectando ERP, plataformas e aplicações com foco em confiabilidade, filas e desempenho.
 
 > 🚀 **Co-founder do [Hone](https://labs.borderlesscoding.com/ai-mock-interview)**: simulações de entrevista técnica com IA e feedback acionável. **2º lugar no Hackathon HB01-2026** e incubado na **[Borderless Coding Labs](https://labs.borderlesscoding.com/)** (EUA), o estúdio de produtos de IA da Borderless.
 
