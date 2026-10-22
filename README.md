@@ -1,4 +1,4 @@
-<h4 align="left">👋 I'm Pablo Cruz — Fullstack Developer</h4>
+<h3 align="left">👋 I'm Pablo Cruz — Fullstack Developer</h3>
 
 Construo e integro APIs escaláveis em produção com TypeScript, Node.js e PostgreSQL, conectando ERP, plataformas e aplicações com foco em confiabilidade, filas e desempenho.
 
