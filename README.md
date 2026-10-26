@@ -2,7 +2,7 @@
 
 Construo e integro APIs escaláveis em produção com TypeScript, Node.js e PostgreSQL, conectando ERP, plataformas e aplicações com foco em confiabilidade, filas e desempenho.
 
-#### 🚀 **Co-founder do [Hone AI Mock Interview](https://labs.borderlesscoding.com/ai-mock-interview)**: simulações de entrevista técnica com IA e feedback acionável. **2º lugar no Hackathon HB01-2026** e incubado na **[Borderless Coding Labs](https://labs.borderlesscoding.com/)** (EUA), o estúdio de produtos de IA da Borderless.
+#### 🚀 **Co-founder do [Hone AI Mock Interview](https://labs.borderlesscoding.com/ai-mock-interview)**: simulações de entrevista técnica com IA e feedback acionável. **2º lugar no Hackathon HB01-2026** e incubado na **[Borderless Coding Labs LLC](https://labs.borderlesscoding.com/)** (EUA), o estúdio de produtos de IA da Borderless.
 
 ### 🧱 O que eu construo
 - Produtos com IA (agentes com LangGraph, streaming em tempo real)
